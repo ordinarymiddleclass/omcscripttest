@@ -1,0 +1,2662 @@
+# 蒼白球日誌0064 2019/12/01 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月1日 / Unix 紀元 18231 日 / 星期日 / 蒼白球紀元第64日
+* December 01, 2019 (UTC) / 18231 days since Unix Epoch / Sunday / Globus Pallidus Record day 64
+
+## 年齡 Age ##
+
+* 33 years 7 months 8 days old / 2 years 1 months 19 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 8 天 / 成為病理專科醫師 2 年 1 個月 19 天
+
+## 本文 Content ##
+
+今天是2019年冬天的開始，由於這會是個對於中華民國很重要的冬天，編號0064本來應該要當作序言一樣寫些什麼話才對。不過想一想又覺得，將要發生的重要事件，之後就會寫在日誌裡面了，不如把篇幅拿來當作重要名詞彙整，方便這個冬天的日誌引用比較實際。
+
+所以內容請見註釋。
+
+## 注釋 Comment ##
+
+[1] 蒼白球日誌(Records on the Globus Pallidus)，全銜「蒼白無味的中產階級日記」，為一個中產階級出身的人寫的廢文。之所以簡寫為蒼白球，是因為在取facebook姓名的時候，需要一個三個字的中文名字，正苦惱要怎麼縮短成三個字時，突然想到有一個掌管動作調節的腦部區域叫做蒼白球(Globus Pallidus)，覺得很酷，就決定用他命名facebook帳號。最後因為覺得蒼白球這個腦區實在太炫了，連日誌標題也改成蒼白球了。目前蒼白球本人在中華民國所轄台灣島上擔任病理醫師。
+
+[2] 新臺幣，是中華民國現行的法定貨幣，於1949年6月15日起發行流通，當時定位為限定臺灣使用的區域貨幣，目前則在整個中華民國有效統治區域（臺澎金馬）均可流通使用。原始發行機構為臺灣銀行，2000年起由中華民國中央銀行收回負責。基本單位為圓（簡作元）。在這個時間的台中市物價，一個正餐餐盒的價格約為60-80元新台幣，麥當勞大麥克套餐為122元新台幣，960毫升(milliliter)容量的市售麥茶價格為20元新台幣，一個痔瘡病理診斷價格約900元新台幣左右。
+
+[3] 大麥克指數（英語：Big Mac index）是一個非正式的經濟指數，在假定購買力平價理論成立的前提下，用以測量兩種貨幣的匯率理論上是否合理。這種測量方法，以各國麥當勞餐廳的大麥克漢堡價格，相對於該國貨幣匯率，作為比較的基準。這個指數在1986年由《經濟學人》雜誌推出，每年出版一次，該指數在英語國家裡衍生了漢堡經濟（Burgernomics）一詞。
+
+[4] 蒼氏係數(Globus Pallidus Index)，為我自創衡量醫療服務價位的指標，方式為痔瘡病理診斷價碼除以大麥克指數，在2019年冬季蒼氏係數約為7-8。
+
+[5] 電腦（亦稱電子計算機）是利用數位電子技術，根據一系列指令指示並且自動執行任意算術或邏輯操作序列的裝置。通用電腦因有能遵循被稱為「程式」的一般操作集的能力而使得它們能夠執行極其廣泛的任務。電腦可以用作各種工業和消費裝置的控制系統，例如說你現在看到的這個文字，就是使用電腦輸入，而非手寫的。筆者的字很醜，有電腦很棒。
+
+[6] 網際網路（英語：Internet）是指21世紀之初網路與網路之間所串連成的龐大網路。這些網路以一些標準的網路協定相連，連接全世界幾十億個裝置，形成邏輯上的單一巨大國際網絡。
+
+[7] 網站是指在網際網路上，根據一定的規則，使用HTML等工具製作的用於展示特定內容的相關網頁的集合。簡單地說，網站是一種通訊工具，就像布告欄一樣，人們可以通過網站來發布自己想要公開的資訊，或網站來提供相關的網路服務。
+
+[8] 行動電話，又稱「手提式電話機」或「手提電話」，簡稱「手機」，是可以在較大範圍內使用的可攜式電話，與固定電話（座機）相對。1990年代中期以前價格昂貴，只有極少部分經濟實力較佳的人才買得起，而且體積龐大，因此又有大哥大的俗稱。1990年代後期大幅降價，如今已成為現代人日常不可或缺的電子用品之一。目前的行動電話可以執行相當多電腦的功能。
+
+[9] 病理(Pathology)，為研究疾病機制的學問，包含很多領域，不過本日誌說的「病理」指的是醫院病理科的大宗業務--外科病理，也就是針對人類身上取下的人體組織做診斷的工作。在這個工作中，最重要的資源是將人體組織蠟化以長期保存的「蠟塊」，以及由蠟塊所切下、染色，並承載於玻璃片上，藉以在顯微鏡下判讀的「玻片」。因此，醫學中心的蠟塊室與玻片室，不僅是人體知識的大圖書館，更是有醫病爭議時的法律證據來源，為醫學中心重地中的重地，需嚴密管理。玻片室與蠟塊室的管理員通常必須有非常非常嚴密的人格特質。
+
+[10] 病理醫師(Pathologist)，執行上述外科病理業務，藉由以眼睛觀察實體人體組織進行診斷的醫師，一般不進行看診與理學檢查工作，僅觀察檢體。由於微觀證據在病理工作上的重要性，因此顯微鏡與承載薄片組織的玻璃片(簡稱玻片)在病理醫師的工作中佔有非常重要的地位。
+
+[11] 顯微鏡，一種光學儀器，可以放大影像以觀察人眼不可見的微小物體。
+
+[12] 機器學習(Machine Learning)，指的是一種可以藉由資料統計修正自身演算法，以使演算法更加吻合現實世界的程式，他的行為很類似人類的嘗試-錯誤學習。目前許多研究者正在研究如何利用機器學習的方式，使程式能模仿病理醫師看片診斷的方式，我就是其中之一。
+
+[13] 簡報，就一個題目向聽眾陳述內容、傳達訊息或觀點的過程。這一過程中所展示的圖片、文字說明也可叫簡報。因常常使用投影機放大畫面，因此又稱為投影片。
+
+[14] Git，為分散式版本控制系統，一開始的用途是用來管理Linux作業系統核心，不過因為非常好用，所以後來就擴散到整個軟體(即電腦程式)界。Git可以把檔案的狀態作為更新歷史記錄保存起來。因此可以把編輯過的檔案復原到以前的狀態，也可以顯示編輯過內容的差異。
+
+[15] 社群媒體（social media）是人們用來創作、分享、交流意見、觀點及經驗的虛擬社區和網絡平台。社群媒體和一般的社會大眾媒體最顯著的不同是，讓用戶享有更多的選擇權利和編輯能力，自行集結成某種閱聽社群。2019年最常見的社群媒體為Facebook、Twitter，以及Plurk(噗浪)。
+
+[16] 維基百科（英語：Wikipedia）是網路百科全書計畫，特點是自由內容、自由編輯。目前是全球網路上最大且最受大眾歡迎的參考工具書，名列全球十大最受歡迎的網站。本日誌相當多的內容剽竊自維基百科。
+
+[17] 一中商圈（亦稱一中街商圈、台中一中商圈、台中一中街商圈）是位於臺中市北區的大型商圈，範圍以台中第一名校，也就是台中第一高級中學為核心，原本是一般學生商圈，近年已發展成大型的綜合商圈。
+
+[18] 非洲鼓，指Djembe，又稱金貝鼓，由皮革鼓皮覆蓋高腳杯狀的木箱所組成，起源於公元1200年左右的西非，但是在他前七百年的歷史僅見於非洲，公元1950年左右才從非洲傳到歐洲及全世界。因方便攜帶而風行於21世紀的台灣。
+
+## 附錄 Appendix ##
+
+無。
+
+
+# 蒼白球日誌0065 2019/12/02 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月2日 / Unix 紀元 18232 日 / 星期一 / 蒼白球紀元第65日
+* December 02, 2019 (UTC) / 18232 days since Unix Epoch / Monday / Globus Pallidum day 65
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 9 days old / 2 years 1 months 20 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 9 天 / 成為病理專科醫師 2 年 1 個月 20 天
+
+## 本文 Content ##
+
+準備在12/4周三開始請假為了清唱劇全力趕工，因此我現在在奮力趕片子，好累喔。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0066 2019/12/03 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月3日 / Unix 紀元 18233 日 / 星期二 / 蒼白球紀元第66日
+* December 03, 2019 (UTC) / 18233 days since Unix Epoch / Tuesday / Globus Pallidum day 66
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 10 days old / 2 years 1 months 21 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 10 天 / 成為病理專科醫師 2 年 1 個月 21 天
+
+## 本文 Content ##
+
+1. 電話會議
+
+    昨天晚上跟母后討論演出事宜時，由於需要同時聯絡兩個合作單位，又暫時找不到可以電話會議的方法，索性用兩台手機[1]同時開擴音器通話，充當一種簡易四人電話會議的方式，沒想到效果還不錯。人手一機的世界，其實有滿多花樣可以變的。
+
+2. 發病理報告[2]的進度遠遠落後
+
+    但我必需要來寫曲子了，所以明天就先待在家裡工作，有被催報告再去醫院吧。
+
+3. 雜記:物價與其他[3]
+
+    C院午餐76元(居然漲了4元，我在看到獅子頭上面點綴了一朵香菇的時候，就應該要有警覺了。可惡，不是說通膨溫和嗎)，「讚不絕口」藥膳鍋140元，「迷客夏」麥茶25元，「統一」AB優酪乳25元
+
+## 注釋 Comment ##
+
+[1] 指行動電話。見蒼白球日誌0064。
+
+[2] 有關病理報告請見蒼白球日誌0064。
+
+[3] 新台幣計價。有關新台幣請參見蒼白球日誌0064。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0067 2019/12/04 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月4日 / Unix 紀元 18234 日 / 星期三 / 蒼白球紀元第67日
+* December 04, 2019 (UTC) / 18234 days since Unix Epoch / Wednesday / Globus Pallidum day 67
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 11 days old / 2 years 1 months 22 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 11 天 / 成為病理專科醫師 2 年 1 個月 22 天
+
+## 本文 Content ##
+
+潛心編曲中簡單寫寫表示沒有漏掉日誌就好。相信我，2020年1月5號這場的管樂編曲真的精采，我從來沒有發揮這種水準跟手速過。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0068 2019/12/05 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月5日 / Unix 紀元 18235 日 / 星期四 / 蒼白球紀元第68日
+* December 05, 2019 (UTC) / 18235 days since Unix Epoch / Thursday / Globus Pallidum day 68
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 12 days old / 2 years 1 months 23 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 12 天 / 成為病理專科醫師 2 年 1 個月 23 天
+
+## 本文 Content ##
+
+又編了一首，累了，老了好多，怎麼辦
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0069 2019/12/06 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月6日 / Unix 紀元 18236 日 / 星期五 / 蒼白球紀元第69日
+* December 06, 2019 (UTC) / 18236 days since Unix Epoch / Friday / Globus Pallidum day 69
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 13 days old / 2 years 1 months 24 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 13 天 / 成為病理專科醫師 2 年 1 個月 24 天
+
+## 本文 Content ##
+
+1. 編曲
+   
+    因為上個月底我跟母后警告，我沒有時間可以完成1月5日清唱劇的所有編曲，所以他幫我把其中一些曲子外包給其他編曲者。
+
+    結果這幾天裡面的某些曲子出爐，編得真是稀巴爛啊，可是我已經沒有餘力可以去救他了，只好隨緣。
+    
+    有時必須要接受這個世界充滿缺陷。例如說編曲，還有我充滿缺陷的外貌。
+
+2. 那兩個新科主治醫師
+
+    問我片子的時候，我幾乎都是教他們怎麼打模糊帳，做保險而可以混過去的診斷。秘書不禁埋怨我怎麼可以這樣做病理，可是沒辦法，我被其他事情耗掉太多精力所以無法好好練習診斷，只好精進自保術，自然腦袋裡面都是那些東西。要我教真正的病理之道，恐怕我也拿不出來。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0070 2019/12/07 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月7日 / Unix 紀元 18237 日 / 星期六 / 蒼白球紀元第70日
+* December 07, 2019 (UTC) / 18237 days since Unix Epoch / Saturday / Globus Pallidum day 70
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 14 days old / 2 years 1 months 25 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 14 天 / 成為病理專科醫師 2 年 1 個月 25 天
+
+## 本文 Content ##
+
+潛心寫作C小調第一號交響序曲「仙島醫尊杜聰明」中，故僅簡單寫這樣一行。這將會是我的代表作。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0071 2019/12/08 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月8日 / Unix 紀元 18238 日 / 星期日 / 蒼白球紀元第71日
+* December 08, 2019 (UTC) / 18238 days since Unix Epoch / Sunday / Globus Pallidum day 71
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 15 days old / 2 years 1 months 26 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 15 天 / 成為病理專科醫師 2 年 1 個月 26 天
+
+## 本文 Content ##
+
+完成了為小型管樂團而做的C小調第一號交響序曲「仙島醫尊‧杜聰明」。2020年1月5號由台灣青年管樂團於霧峰林家花園「大花廳」首演。
+
+說實在除了音樂本身有很多瑕疵以外，這部作品還有很多槽點。其一這不是為了杜聰明寫的，是為了討好杜家才硬是把我的兩首配樂「台灣戰記」跟「小神廟」拼裝成一個作品，其二是托母后的福才有被演出的機會，但無論如何，算是我人生中第一個稱得上有正式發表且全權掛自己名字的曲目了，基本上算是我的Op1，值得記上一筆。
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0072 2019/12/09 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月9日 / Unix 紀元 18239 日 / 星期一 / 蒼白球紀元第72日
+* December 09, 2019 (UTC) / 18239 days since Unix Epoch / Monday / Globus Pallidum day 72
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 16 days old / 2 years 1 months 27 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 16 天 / 成為病理專科醫師 2 年 1 個月 27 天
+
+## 本文 Content ##
+
+1. 食記[1]
+
+    「上海顧家飯館」蝦腰麵145元。不愧是名店啊，蝦仁跟腎臟這兩種會有腥味的食材，組合在一起居然能夠處理得非常淡雅，果然能夠在台中市中心屹立二十幾年，沒有一點功夫是不可能做到的。基本上來到學士路，吃完顧家再去雙江喝個茶，就等於品嘗過台中黃金年代了。
+
+    C院午餐76元(香菇肉丸，紫米飯，茄子，龍鬚菜，芹菜)，「台茶一號」麥香紅茶25元，「黑松」茶花綠茶25元(C校販賣機)，「清心」普洱25元
+
+2. 徹底放棄小組討論課
+
+    隨便跟學生唬弄一下就過去了。我太累了，懶得跟他們耗。
+
+## 注釋 Comment ##
+
+[1] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0073 2019/12/10 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月10日 / Unix 紀元 18240 日 / 星期二 / 蒼白球紀元第73日
+* December 10, 2019 (UTC) / 18240 days since Unix Epoch / Tuesday / Globus Pallidum day 73
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 17 days old / 2 years 1 months 28 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 17 天 / 成為病理專科醫師 2 年 1 個月 28 天
+
+## 本文 Content ##
+
+做了一點行政，然後一整天就一邊寫片子一邊發呆，難得有點優閒的一天。    
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0074 2019/12/11 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月11日 / Unix 紀元 18241 日 / 星期三 / 蒼白球紀元第74日
+* December 11, 2019 (UTC) / 18241 days since Unix Epoch / Wednesday / Globus Pallidum day 74
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 18 days old / 2 years 1 months 29 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 18 天 / 成為病理專科醫師 2 年 1 個月 29 天
+
+## 本文 Content ##
+
+去康是美買保養品順道路過「好吃河粉」，吃了一碗豬肉湯河粉70元[1]，本來應該要吃個炸春捲跟綠豆西米露(或甚至是摩摩喳喳)慰勞自己的，但是為了皮膚跟身材，我不能吃甜的，更不能吃炸的。
+
+最後吃了無糖優格(40元)墊肚子。好空虛。
+
+
+[1] 新台幣計價。有關新台幣請見蒼白球日誌0064
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0075 2019/12/12 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月12日 / Unix 紀元 18242 日 / 星期四 / 蒼白球紀元第75日
+* December 12, 2019 (UTC) / 18242 days since Unix Epoch / Thursday / Globus Pallidum day 75
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 19 days old / 2 years 2 months 0 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 19 天 / 成為病理專科醫師 2 年 2 個月 0 天
+
+## 本文 Content ##
+
+1. 在工作做得很悶的時候
+
+    就會開始不小心產生一些奇怪的興趣，今天上班上到一半居然開始有了一種「來學個C++[1]也不錯」的想法，畢竟我本來就對於可以貼近機器的中階語言有一定程度的好奇心。
+
+    但是，以實用角度來講C++是我短期內最用不到的東西，比較用得到的反而是網頁語言，但網頁真的很無趣。在時間有限的狀況下，應該要選有趣還是有用，實在是很困難的問題。
+
+    但我還是忍不住誘惑裝了MSVC。
+
+2. 把別的研究生幫我寫的研究計畫雛形給啟蒙老師過目
+
+    結果他連續兩天打電話給我討論計畫內容，讓我驚慌失措，只是交差用的計畫他居然這麼熱情地想要給予指導，莫非他在花蓮真的很寂寞？
+
+2. 雜記:物價與其他[2]
+
+    * 「六本木備長炭烤肉飯包」烤肉飯85元，C院晚餐72元(白飯，洋蔥豬柳，芥菜，花菜，四季豆)，「清心」普洱茶25元
+    * 特別值得一提的「李家紅茶冰」麥香鮮奶茶40元，這家店的菜單原本只有「特濃麥茶牛奶」55元跟「特濃紅茶牛奶」55元，於是想要喝麥香鮮奶茶的我只好禮貌地問「可不可以做麥香鮮奶茶」，並掏了55元。美女店員此時疑惑地問我，喝普通的麥香鮮奶茶為何要付55元，只要付40元啊？並退15元給我。原來價目表上面雖然寫「特濃」紅茶牛奶55元，但是他們另外有做一種「普通的」紅茶牛奶只要40元。下次來喝看看特濃的長什麼樣子好了，感覺有趣。
+
+## 注釋 Comment ##
+
+[1] C++是一種被廣泛使用的電腦程式設計語言。它是一種通用程式設計語言，支援多重程式設計模式，例如程序化程式設計、資料抽象化、物件導向程式設計、泛型程式設計和設計模式等。 
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0076 2019/12/13 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月13日 / Unix 紀元 18243 日 / 星期五 / 蒼白球紀元第76日
+* December 13, 2019 (UTC) / 18243 days since Unix Epoch / Friday / Globus Pallidum day 76
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 20 days old / 2 years 2 months 1 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 20 天 / 成為病理專科醫師 2 年 2 個月 1 天
+
+## 本文 Content ##
+
+潛心作曲中，不寫日誌    
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0077 2019/12/14 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月14日 / Unix 紀元 18244 日 / 星期六 / 蒼白球紀元第77日
+* December 14, 2019 (UTC) / 18244 days since Unix Epoch / Saturday / Globus Pallidum day 77
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 21 days old / 2 years 2 months 2 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 21 天 / 成為病理專科醫師 2 年 2 個月 2 天
+
+## 本文 Content ##
+
+把清唱劇的配樂部分完成了，剩下兩首歌曲。
+
+母后：「坦白講做太細了，清唱劇哪有人講話全部都要配樂的」我：「但是機器人大戰每一段講話都是有配樂的」。   
+
+是的，我是用一個做冒險遊戲的態度在做這件事的。彌補當年配樂做得不好的缺憾。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0078 2019/12/15 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月15日 / Unix 紀元 18245 日 / 星期日 / 蒼白球紀元第78日
+* December 15, 2019 (UTC) / 18245 days since Unix Epoch / Sunday / Globus Pallidum day 78
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 22 days old / 2 years 2 months 3 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 22 天 / 成為病理專科醫師 2 年 2 個月 3 天
+
+## 本文 Content ##
+
+1. 核銷
+
+    計畫核銷的期限快要到了，而我如果花很多時間在核銷上面的話，就會耽誤母后的工作。
+
+    跟母后說明這個情形以後，他馬上教我怎麼快速把行政工作做完，這樣我就可以做他的事情了。痾這把年紀了行政還要老媽教，好羞恥喔！
+    
+2. 比熱[1]
+
+    今天吃韓石館的石頭牛雜鍋，不知道為什麼今天燒得特別熱，居然是滾燙的，看來韓石館的手藝又進步了。我跟男友興奮地說這個情形，他提醒我說因為石鍋的熱容量大，所以可以燒得特別熱。
+
+    然後這才發現我忘記有熱容量這個概念了，好糟糕喔，常識忘得差不多了。
+
+## 注釋 Comment ##
+
+[1] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0079 2019/12/16 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月16日 / Unix 紀元 18246 日 / 星期一 / 蒼白球紀元第79日
+* December 16, 2019 (UTC) / 18246 days since Unix Epoch / Monday / Globus Pallidum day 79
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 23 days old / 2 years 2 months 4 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 23 天 / 成為病理專科醫師 2 年 2 個月 4 天
+
+## 本文 Content ##
+
+要開始寫科技部計畫了，好頭痛......沒有比寫計畫做研究壓力更大的事情了。   
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0080 2019/12/17 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月17日 / Unix 紀元 18247 日 / 星期二 / 蒼白球紀元第80日
+* December 17, 2019 (UTC) / 18247 days since Unix Epoch / Tuesday / Globus Pallidum day 80
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 24 days old / 2 years 2 months 5 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 24 天 / 成為病理專科醫師 2 年 2 個月 5 天
+
+## 本文 Content ##
+
+寫計畫...頭好痛...寫不出來...怎麼辦...    
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0081 2019/12/18 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月18日 / Unix 紀元 18248 日 / 星期三 / 蒼白球紀元第81日
+* December 18, 2019 (UTC) / 18248 days since Unix Epoch / Wednesday / Globus Pallidum day 81
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 25 days old / 2 years 2 months 6 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 25 天 / 成為病理專科醫師 2 年 2 個月 6 天
+
+## 本文 Content ##
+
+還是在寫計畫中，寫不太出來
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0082 2019/12/19 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月19日 / Unix 紀元 18249 日 / 星期四 / 蒼白球紀元第82日
+* December 19, 2019 (UTC) / 18249 days since Unix Epoch / Thursday / Globus Pallidum day 82
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 26 days old / 2 years 2 months 7 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 26 天 / 成為病理專科醫師 2 年 2 個月 7 天
+
+## 本文 Content ##
+
+寫計畫快要寫到腦筋斷掉了，如果可以寫說我好棒棒我要錢錢就交差該多好    
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0083 2019/12/20 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月20日 / Unix 紀元 18250 日 / 星期五 / 蒼白球紀元第83日
+* December 20, 2019 (UTC) / 18250 days since Unix Epoch / Friday / Globus Pallidum day 83
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 27 days old / 2 years 2 months 8 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 27 天 / 成為病理專科醫師 2 年 2 個月 8 天
+
+## 本文 Content ##
+
+1. 
+
+    
+2. 雜記:物價與其他[2]
+
+    
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0084 2019/12/21 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月21日 / Unix 紀元 18251 日 / 星期六 / 蒼白球紀元第84日
+* December 21, 2019 (UTC) / 18251 days since Unix Epoch / Saturday / Globus Pallidum day 84
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 28 days old / 2 years 2 months 9 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 28 天 / 成為病理專科醫師 2 年 2 個月 9 天
+
+## 本文 Content ##
+
+寫計畫真的寫到很累的時候，連C++都變得有趣了起來。是說看了兩章C++的書以後，我完全理解這種語言為什麼會非常複雜了。由於必須要兼具中階語言跟高階語言的用途，因此C++的很多物件有至少兩套實踐，一套是由標準函式庫保護得很好，不會直接碰觸記憶體管理的高階物件，另一套是非常接近記憶體的低階物件，由使用者本身管理。在這種高低階混雜的環境裡面，就造成了很多混亂的語法。然而也正是這種多面性造成了C++的強大，進而造成它難以被取代。    
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0085 2019/12/22 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月22日 / Unix 紀元 18252 日 / 星期日 / 蒼白球紀元第85日
+* December 22, 2019 (UTC) / 18252 days since Unix Epoch / Sunday / Globus Pallidum day 85
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 7 months 29 days old / 2 years 2 months 10 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 7 個月 29 天 / 成為病理專科醫師 2 年 2 個月 10 天
+
+## 本文 Content ##
+
+很忙所以今天不能寫什麼
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0086 2019/12/23 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月23日 / Unix 紀元 18253 日 / 星期一 / 蒼白球紀元第86日
+* December 23, 2019 (UTC) / 18253 days since Unix Epoch / Monday / Globus Pallidum day 86
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 0 days old / 2 years 2 months 11 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 0 天 / 成為病理專科醫師 2 年 2 個月 11 天
+
+## 本文 Content ##
+
+前幾天聽到自己的配器被管樂團演繹，有點嚇了一跳，原來我寫的東西跟其他編曲者比起來這麼肉感，如果說另外一位編曲者的配樂是蝦醬空心菜的話，我的配樂就像是一大塊滴著油的東坡肉。
+
+這搞不好是因為我長久以來對自己的肉體非常不滿，所以硬是用那個配器來滿足那個肉。
+
+不過我看聽的人都聽得滿爽的。肥肉可能真的好吃。
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0087 2019/12/24 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月24日 / Unix 紀元 18254 日 / 星期二 / 蒼白球紀元第87日
+* December 24, 2019 (UTC) / 18254 days since Unix Epoch / Tuesday / Globus Pallidum day 87
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 1 days old / 2 years 2 months 12 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 1 天 / 成為病理專科醫師 2 年 2 個月 12 天
+
+## 本文 Content ##
+
+寫計畫的進度還是很慢..............可能下周壓在最後一刻交出去吧。    
+
+## 注釋 Comment ##
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0088 2019/12/25 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月25日 / Unix 紀元 18255 日 / 星期三 / 蒼白球紀元第88日
+* December 25, 2019 (UTC) / 18255 days since Unix Epoch / Wednesday / Globus Pallidum day 88
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 2 days old / 2 years 2 months 13 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 2 天 / 成為病理專科醫師 2 年 2 個月 13 天
+
+## 本文 Content ##
+
+聖誕節快樂。午夜前趕快在這邊寫一句表示我沒中斷日誌。
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0089 2019/12/26 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月26日 / Unix 紀元 18256 日 / 星期四 / 蒼白球紀元第89日
+* December 26, 2019 (UTC) / 18256 days since Unix Epoch / Thursday / Globus Pallidum day 89
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 3 days old / 2 years 2 months 14 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 3 天 / 成為病理專科醫師 2 年 2 個月 14 天
+
+## 本文 Content ##
+
+寫計畫中
+    
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0090 2019/12/27 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月27日 / Unix 紀元 18257 日 / 星期五 / 蒼白球紀元第90日
+* December 27, 2019 (UTC) / 18257 days since Unix Epoch / Friday / Globus Pallidum day 90
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 4 days old / 2 years 2 months 15 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 4 天 / 成為病理專科醫師 2 年 2 個月 15 天
+
+## 本文 Content ##
+
+逃避寫計畫中，不想面對現實.....
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0091 2019/12/28 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月28日 / Unix 紀元 18258 日 / 星期六 / 蒼白球紀元第91日
+* December 28, 2019 (UTC) / 18258 days since Unix Epoch / Saturday / Globus Pallidum day 91
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 5 days old / 2 years 2 months 16 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 5 天 / 成為病理專科醫師 2 年 2 個月 16 天
+
+## 本文 Content ##
+
+寫計畫中
+
+## 注釋 Comment ##
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0092 2019/12/29 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月29日 / Unix 紀元 18259 日 / 星期日 / 蒼白球紀元第92日
+* December 29, 2019 (UTC) / 18259 days since Unix Epoch / Sunday / Globus Pallidum day 92
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 6 days old / 2 years 2 months 17 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 6 天 / 成為病理專科醫師 2 年 2 個月 17 天
+
+## 本文 Content ##
+
+寫計畫.........好痛苦.......
+    
+
+## 注釋 Comment ##
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0093 2019/12/30 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月30日 / Unix 紀元 18260 日 / 星期一 / 蒼白球紀元第93日
+* December 30, 2019 (UTC) / 18260 days since Unix Epoch / Monday / Globus Pallidum day 93
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 7 days old / 2 years 2 months 18 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 7 天 / 成為病理專科醫師 2 年 2 個月 18 天
+
+## 本文 Content ##
+
+把計畫寫完有種如釋重負的感覺，沒想到一個二十頁，充滿嘴砲的計畫對我來講會比五首管樂曲還難寫。不過寫出來的成品真的是超級華麗的，可能比曲子還要華麗。
+現在只差到處去抱大腿而已，盡人事聽天命吧。    
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0094 2019/12/31 #
+
+## 日期 Date ##
+
+* 世界協調時間2019年(中華民國108年，令和1年)12月31日 / Unix 紀元 18261 日 / 星期二 / 蒼白球紀元第94日
+* December 31, 2019 (UTC) / 18261 days since Unix Epoch / Tuesday / Globus Pallidum day 94
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 8 days old / 2 years 2 months 19 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 8 天 / 成為病理專科醫師 2 年 2 個月 19 天
+
+## 本文 Content ##
+
+趕著要補救別人編壞的譜，差點忘記寫日誌
+    
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0095 2020/01/01 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月1日 / Unix 紀元 18262 日 / 星期三 / 蒼白球紀元第95日
+* January 01, 2020 (UTC) / 18262 days since Unix Epoch / Wednesday / Globus Pallidum day 95
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 9 days old / 2 years 2 months 20 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 9 天 / 成為病理專科醫師 2 年 2 個月 20 天
+
+## 本文 Content ##
+
+嚴格來講一月五號這場演出，有的曲子與其說是改編，不如說根本照抄。我有一首曲子直接聽了原曲的編曲轉寫到所有樂器上面，然後就通了。
+    
+
+## 注釋 Comment ##
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0096 2020/01/02 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月2日 / Unix 紀元 18263 日 / 星期四 / 蒼白球紀元第96日
+* January 02, 2020 (UTC) / 18263 days since Unix Epoch / Thursday / Globus Pallidum day 96
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 10 days old / 2 years 2 months 21 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 10 天 / 成為病理專科醫師 2 年 2 個月 21 天
+
+## 本文 Content ##
+
+辦公室不能上FB了，手機APP的網誌功能又不能用，所以晚回家的狀況下只好用這種原始碼的日誌格式了。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0097 2020/01/03 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月3日 / Unix 紀元 18264 日 / 星期五 / 蒼白球紀元第97日
+* January 03, 2020 (UTC) / 18264 days since Unix Epoch / Friday / Globus Pallidum day 97
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 11 days old / 2 years 2 months 22 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 11 天 / 成為病理專科醫師 2 年 2 個月 22 天
+
+## 本文 Content ##
+
+大型的編曲跟科技部計劃都已經寫出去了，接下來只剩下一些零星的雜事，可以好好健身了。雖然今天上教練課的時候還是發現肌肉整個退化，但好歹也是可以重新開始了。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0098 2020/01/04 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月4日 / Unix 紀元 18265 日 / 星期六 / 蒼白球紀元第98日
+* January 04, 2020 (UTC) / 18265 days since Unix Epoch / Saturday / Globus Pallidum day 98
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 12 days old / 2 years 2 months 23 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 12 天 / 成為病理專科醫師 2 年 2 個月 23 天
+
+## 本文 Content ##
+
+剛剛在順明天演出的流程，所以趕最後一分鐘把日誌寫一行出來。
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0099 2020/01/05 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月5日 / Unix 紀元 18266 日 / 星期日 / 蒼白球紀元第99日
+* January 05, 2020 (UTC) / 18266 days since Unix Epoch / Sunday / Globus Pallidum day 99
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 13 days old / 2 years 2 months 24 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 13 天 / 成為病理專科醫師 2 年 2 個月 24 天
+
+## 本文 Content ##
+
+演出過後。
+
+母后：「如何？你的曲子效果還滿意嗎？我是覺得不錯啦。聽眾似乎也覺得OK。」
+
+我：「我是不太在意有沒有演壞還什麼的......對我來講就只是一場難得的配器實驗而已。倒是有點在意說我的配器等級似乎還差許雙亮[1]好幾級。」
+
+不過我有生可能無法看到許雙亮的車尾燈就是了。就這樣吧。
+
+## 注釋 Comment ##
+
+[1] 臺灣知名的指揮、作曲編曲家、及管樂文字作家。於1987年獲巴黎師範音樂院長號演奏家文憑及室內樂高級文憑，曾任臺北市立交響樂團首席長號、演奏組主任、臺北銅管五重奏團員。2002年起擔任臺北市立交響樂團附設管樂團指揮，至今已指揮該團演出數十場，2006年應邀指揮該團在廣州及澳門舉行的「第14屆亞太管樂節」演出。2010年指揮「風之香頌法式管樂團」在大連、瀋陽及長春演出四場，獲得極高的評價。
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0100 2020/01/06 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月6日 / Unix 紀元 18267 日 / 星期一 / 蒼白球紀元第100日
+* January 06, 2020 (UTC) / 18267 days since Unix Epoch / Monday / Globus Pallidum day 100
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 14 days old / 2 years 2 months 25 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 14 天 / 成為病理專科醫師 2 年 2 個月 25 天
+
+## 本文 Content ##
+
+1. 
+
+    
+2. 雜記:物價與其他[2]
+
+    
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0101 2020/01/07 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月7日 / Unix 紀元 18268 日 / 星期二 / 蒼白球紀元第101日
+* January 07, 2020 (UTC) / 18268 days since Unix Epoch / Tuesday / Globus Pallidum day 101
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 15 days old / 2 years 2 months 26 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 15 天 / 成為病理專科醫師 2 年 2 個月 26 天
+
+## 本文 Content ##
+
+1. 
+
+    
+2. 雜記:物價與其他[2]
+
+    
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0102 2020/01/08 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月8日 / Unix 紀元 18269 日 / 星期三 / 蒼白球紀元第102日
+* January 08, 2020 (UTC) / 18269 days since Unix Epoch / Wednesday / Globus Pallidum day 102
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 16 days old / 2 years 2 months 27 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 16 天 / 成為病理專科醫師 2 年 2 個月 27 天
+
+## 本文 Content ##
+
+好，終於可以練完身體早早回家，然後睡飽飽，所以接下來蒼白球日誌應該可以好好寫了。皮膚應該也會改善了。
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0103 2020/01/09 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月9日 / Unix 紀元 18270 日 / 星期四 / 蒼白球紀元第103日
+* January 09, 2020 (UTC) / 18270 days since Unix Epoch / Thursday / Globus Pallidum day 103
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 17 days old / 2 years 2 months 28 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 17 天 / 成為病理專科醫師 2 年 2 個月 28 天
+
+## 本文 Content ##
+
+1. 在最近一次買春之後
+
+    這個禮拜都很悶悶不樂，甚至開始怪罪自己沒有勇氣自殺。人家有青春的肉體，而我又老又醜，完全凸顯了我的沒有價值。
+
+    而我又很卑劣地拿錢出來試圖要騷擾人家的肉體。而身為一個小時候靠爸媽，從來沒有打工過的人，拿錢騷擾需要打工的人，好像罪又多了一層。前年忍住不買春的期間我就忍不住偷窺了人家洗澡，還被運動中心趕出來。
+
+    我是個糟糕的人，有好多騷擾前科，我的罪孽永遠洗不乾淨，然後又不斷加了新的汙點，但反正我沒有勇氣自殺，就乾脆蒼白球日誌一本又一本寫下去好了。
+
+2. 然後因為我又老又醜的關係
+
+    我不想去投票了，對這國家的未來表示意見，並無助於我又老又醜又好色又卑劣的事實。我本來就不値得這個中華民國。我不值得成為中華民國的選民。讓他們去悲傷去歡欣鼓舞吧，那些事情不屬於又老又醜的人。
+
+3. 三月二十四院內又要表演了，然後母后那邊又進來了K國小的case
+
+   儼然已經被視為一個編曲家了。是說K國小的編曲這個東西真的是自作自受，為了要讓杜林雙隨音樂劇能順利成行，我拜託K國小團隊幫忙演奏配樂，這人情自然是要用編曲來還的......
+
+4. 雜記:物價與其他[1]
+
+    蒼白球日誌2019秋試印160元，C院低卡餐90元，健康食代低卡餐80元，統一優酪乳28元
+
+## 注釋 Comment ##
+
+[1] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0104 2020/01/10 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月10日 / Unix 紀元 18271 日 / 星期五 / 蒼白球紀元第104日
+* January 10, 2020 (UTC) / 18271 days since Unix Epoch / Friday / Globus Pallidum day 104
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 18 days old / 2 years 2 months 29 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 18 天 / 成為病理專科醫師 2 年 2 個月 29 天
+
+## 本文 Content ##
+
+睡飽飽以後健身力氣滿點，然後似乎有時間來重灌電腦了，所以今天就不多寫，來重灌。
+
+    
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0105 2020/01/11 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月11日 / Unix 紀元 18272 日 / 星期六 / 蒼白球紀元第105日
+* January 11, 2020 (UTC) / 18272 days since Unix Epoch / Saturday / Globus Pallidum day 105
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 19 days old / 2 years 2 months 30 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 19 天 / 成為病理專科醫師 2 年 2 個月 30 天
+
+## 本文 Content ##
+
+1. 重灌這件事情
+
+    意料之外地非常輕鬆，windows10只要按一個鍵就會自動幫使用者重灌。現在只差一些常用的應用程式了。
+
+2. 2020年1月11日總統與立法委員[1]選舉
+
+    蔡英文與民進黨於這次大選中大勝，與預期中的結果相符。然而這次最讓我注目的是吳怡農與蔣萬安這兩個政治人物，原來35歲以後身材跟臉維持好，還是可以很性感的，這讓我產生了某種希望。
+
+## 注釋 Comment ##
+
+[1] 指中華民國的元首與最高國會議員。
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0106 2020/01/12 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月12日 / Unix 紀元 18273 日 / 星期日 / 蒼白球紀元第106日
+* January 12, 2020 (UTC) / 18273 days since Unix Epoch / Sunday / Globus Pallidum day 106
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 20 days old / 2 years 3 months 0 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 20 天 / 成為病理專科醫師 2 年 3 個月 0 天
+
+## 本文 Content ##
+
+今天一整天都在加班，但至少有去健身了。應該會越來越好吧。
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0107 2020/01/13 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月13日 / Unix 紀元 18274 日 / 星期一 / 蒼白球紀元第107日
+* January 13, 2020 (UTC) / 18274 days since Unix Epoch / Monday / Globus Pallidum day 107
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 21 days old / 2 years 3 months 1 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 21 天 / 成為病理專科醫師 2 年 3 個月 1 天
+
+## 本文 Content ##
+
+開始注重睡眠、吃營養品、抹保養品跟健身以後，突然發現可以好好工作的時間，少了好多......外貌其實是種奢侈品吧，只有有時間餘裕的人有資格享有。
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0108 2020/01/14 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月14日 / Unix 紀元 18275 日 / 星期二 / 蒼白球紀元第108日
+* January 14, 2020 (UTC) / 18275 days since Unix Epoch / Tuesday / Globus Pallidum day 108
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 22 days old / 2 years 3 months 2 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 22 天 / 成為病理專科醫師 2 年 3 個月 2 天
+
+## 本文 Content ##
+
+1. 
+
+    
+2. 雜記:物價與其他[2]
+
+    
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0109 2020/01/15 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月15日 / Unix 紀元 18276 日 / 星期三 / 蒼白球紀元第109日
+* January 15, 2020 (UTC) / 18276 days since Unix Epoch / Wednesday / Globus Pallidum day 109
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 23 days old / 2 years 3 months 3 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 23 天 / 成為病理專科醫師 2 年 3 個月 3 天
+
+## 本文 Content ##
+
+1. 
+
+    
+2. 雜記:物價與其他[2]
+
+    
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0110 2020/01/16 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月16日 / Unix 紀元 18277 日 / 星期四 / 蒼白球紀元第110日
+* January 16, 2020 (UTC) / 18277 days since Unix Epoch / Thursday / Globus Pallidum day 110
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 24 days old / 2 years 3 months 4 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 24 天 / 成為病理專科醫師 2 年 3 個月 4 天
+
+## 本文 Content ##
+
+最近被追加了好幾個編曲工作，其實是有點矛盾的。一方面覺得自己的編曲手法確實有得到肯定，另一方面又真的很疲累......
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0111 2020/01/17 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月17日 / Unix 紀元 18278 日 / 星期五 / 蒼白球紀元第111日
+* January 17, 2020 (UTC) / 18278 days since Unix Epoch / Friday / Globus Pallidum day 111
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 25 days old / 2 years 3 months 5 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 25 天 / 成為病理專科醫師 2 年 3 個月 5 天
+
+## 本文 Content ##
+
+1. 可喜可賀，可喜可賀
+
+    在工作量稍微降低，並且花了點時間整理思緒之後，今天終於神志清明到可以集中精神上健身教練課，並且好好寫出這篇日誌的程度了。雖然沒啥梗可以寫，但好歹是靜下心來打字了。
+
+2. 雜記:物價與其他[2]
+
+    C院午餐72元，全家健身便當89元(但友善食光七折，所以63元)，牛奶39元，優酪乳25元，轉90000給母后讓他打點過年的所有事情。
+
+## 注釋 Comment ##
+
+[1] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0112 2020/01/18 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月18日 / Unix 紀元 18279 日 / 星期六 / 蒼白球紀元第112日
+* January 18, 2020 (UTC) / 18279 days since Unix Epoch / Saturday / Globus Pallidum day 112
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 26 days old / 2 years 3 months 6 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 26 天 / 成為病理專科醫師 2 年 3 個月 6 天
+
+## 本文 Content ##
+
+1. 
+
+    
+2. 雜記:物價與其他[2]
+
+    
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0113 2020/01/19 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月19日 / Unix 紀元 18280 日 / 星期日 / 蒼白球紀元第113日
+* January 19, 2020 (UTC) / 18280 days since Unix Epoch / Sunday / Globus Pallidum day 113
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 27 days old / 2 years 3 months 7 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 27 天 / 成為病理專科醫師 2 年 3 個月 7 天
+
+## 本文 Content ##
+
+發了一些病理切片[1]，然後母后陪我去做了臉，本來回到家想要好好完成IRB[2]的審查意見回覆，結果發現我的計畫書檔案放在醫院沒帶回來。
+
+看起來醫院跟家中的檔案必須要好好同步。
+
+## 注釋 Comment ##
+
+[1] 有關病理工作請見蒼白球日誌0064
+
+[2] 人體試驗委員會，負責審核所有人體相關研究案的單位。
+
+## 附錄 Appendix ##
+
+# 蒼白球日誌0114 2020/01/20 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月20日 / Unix 紀元 18281 日 / 星期一 / 蒼白球紀元第114日
+* January 20, 2020 (UTC) / 18281 days since Unix Epoch / Monday / Globus Pallidum day 114
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 28 days old / 2 years 3 months 8 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 28 天 / 成為病理專科醫師 2 年 3 個月 8 天
+
+## 本文 Content ##
+
+1. 
+
+    
+2. 雜記:物價與其他[2]
+
+    
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0115 2020/01/21 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月21日 / Unix 紀元 18282 日 / 星期二 / 蒼白球紀元第115日
+* January 21, 2020 (UTC) / 18282 days since Unix Epoch / Tuesday / Globus Pallidum day 115
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 8 months 29 days old / 2 years 3 months 9 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 29 天 / 成為病理專科醫師 2 年 3 個月 9 天
+
+## 本文 Content ##
+
+在辦公室再也不能上facebook[1]以後，寫作日誌備感不便，必須要想一個辦法才行，不然常常會漏。
+
+## 注釋 Comment ##
+
+[1] 社群網站，可參考蒼白球日誌0064。
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0116 2020/01/22 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月22日 / Unix 紀元 18283 日 / 星期三 / 蒼白球紀元第116日
+* January 22, 2020 (UTC) / 18283 days since Unix Epoch / Wednesday / Globus Pallidum day 116
+* 特殊註記: 農曆新年前三天。
+
+## 年齡 Age ##
+
+* 33 years 8 months 30 days old / 2 years 3 months 10 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 8 個月 30 天 / 成為病理專科醫師 2 年 3 個月 10 天
+
+## 本文 Content ##
+
+1. 唯一一個可以好好健身，睡美容覺，變漂亮的方式
+
+    很無奈地，就是把所有音樂工作都拖延到非常離譜的地步，並且降低音樂製作的品質。編曲確實是我的興趣，我的愛，但是如果手上的兩個案件(K國小的國西合奏，還有C院的慈善演出)都熬夜全力以赴的話，我只會加速老化而已，這樣非常母湯。
+
+    因此今天C院方面跟我催稿的時候，我就委婉地說年後才能拿到譜了。我得休息、保養、運動，我還有自己的人生，我不能為了音樂之神而燃燒。即使我知道我是愛著她的。
+
+2. 然後病理報告也是
+
+    能拖就拖。為了美容。畢竟之後A院病理要從C院分家了，正在念博士的T學長要直接去A院，所以C院病理這邊的下一代學術種子剩下我一個，其他45歲以下的主治醫師都沒有什麼進修的潛力。所以不管我做得怎樣，可能算是這邊唯一的希望了，所以在工作上應該可以稍微皮一段時間了吧？
+
+    不過還是不要太皮好了。皮繃緊一點，還是好好工作，維持健身的餘裕就好。
+
+3. 雜記:物價與其他[1]
+
+    C院午餐76元(紫米飯，香菇肉丸，油菜花，菠菜，茄子)，C院晚餐72元(白米飯，排骨，青花菜，然後忘記兩種菜)，光泉頂級鮮奶優酪40元(每天吃以後排便順暢，身體好很多)，清心普洱25元
+
+## 注釋 Comment ##
+
+[1] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0117 2020/01/23 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月23日 / Unix 紀元 18284 日 / 星期四 / 蒼白球紀元第117日
+* January 23, 2020 (UTC) / 18284 days since Unix Epoch / Thursday / Globus Pallidum day 117
+* 特殊註記: 農曆新年前2天。
+
+## 年齡 Age ##
+
+* 33 years 9 months 0 days old / 2 years 3 months 11 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 0 天 / 成為病理專科醫師 2 年 3 個月 11 天
+
+## 本文 Content ##
+
+1. 拿到了蒼白球日誌2019秋的最終印刷版十五本
+
+    算是少數稍微有成就感的事情吧。不然最近片子的速度都發得很慢，該做的曲子也都還沒做，超廢的......
+
+    不過看完整本以後覺得自己的中文實在有待加強。
+
+2. 雜記:物價與其他[1]
+
+    POLA洗面乳1750元，益菌寶(60包)1680元，澡享沐浴乳雪松白麝香189元，海倫仙度絲控油去屑洗髮239元，C院午餐76元
+
+## 注釋 Comment ##
+
+[1] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+## 附錄 Appendix ##
+
+# 蒼白球日誌0118 2020/01/24 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月24日 / Unix 紀元 18285 日 / 星期五 / 蒼白球紀元第118日
+* January 24, 2020 (UTC) / 18285 days since Unix Epoch / Friday / Globus Pallidum day 118
+* 特殊註記: 除夕，農曆新年前一天。
+
+## 年齡 Age ##
+
+* 33 years 9 months 1 days old / 2 years 3 months 12 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 1 天 / 成為病理專科醫師 2 年 3 個月 12 天
+
+## 本文 Content ##
+
+1. 全家出來玩，不想帶電腦
+
+    所以嘗試用手機打網誌。似乎還行得通，在Android[1]平台上，markdown編輯器使用Markor，git[2]客戶端使用Mgit，接下來只要摸索手機版facebook[3]如何上傳網誌，我就可以完成這篇日誌了。
+
+    或許未來在辦公室也可以嘗試用手機作業，畢竟辦公室不能上facebook。
+
+
+2. 然後可以好好寫日誌的原因
+
+    也是因為沒帶電腦，所以我就可以用這個做藉口不工作了，不然其實手上的編曲真的很多的。
+
+## 注釋 Comment ##
+
+[1] 手機使用的作業系統。有關手機等行動裝置請見蒼白球日誌0064。
+
+[2] 版本控制系統，詳見蒼白球日誌0064。
+
+[3] 社群平台，詳見蒼白球日誌0064。
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0119 2020/01/25 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月25日 / Unix 紀元 18286 日 / 星期六 / 蒼白球紀元第119日
+* January 25, 2020 (UTC) / 18286 days since Unix Epoch / Saturday / Globus Pallidum day 119
+* 特殊註記: 農曆新年。
+
+## 年齡 Age ##
+
+* 33 years 9 months 2 days old / 2 years 3 months 13 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 2 天 / 成為病理專科醫師 2 年 3 個月 13 天
+
+## 本文 Content ##
+
+1. 除夕夜跟喇嘛舅公共同用餐以後
+
+    阿嬤還有父皇母后心情都相當複雜，因為舅公的女伴很明顯地，又拿他辛苦辦法會的錢去開了很明顯不會賺錢的公司了。這次是賣得莫名其妙貴的面膜。
+
+    但或許僧人也必須面對自己的業吧。當事人沒有說什麼，旁觀者也不好意思講了。
+
+2. 早點睡
+
+    明天早點去加班。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0120 2020/01/26 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月26日 / Unix 紀元 18287 日 / 星期日 / 蒼白球紀元第120日
+* January 26, 2020 (UTC) / 18287 days since Unix Epoch / Sunday / Globus Pallidum day 120
+
+## 年齡 Age ##
+
+* 33 years 9 months 3 days old / 2 years 3 months 14 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 3 天 / 成為病理專科醫師 2 年 3 個月 14 天
+
+## 本文 Content ##
+
+我們家族是個女人國，我有三個姑姑跟五個表妹，所以農曆初二額外熱鬧，全家人在西螺的迎客園開了兩桌吃飯。
+
+然後菜色很棒。表妹們也很棒。 愉快的初二。
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0121 2020/01/27 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月27日 / Unix 紀元 18288 日 / 星期一 / 蒼白球紀元第121日
+* January 27, 2020 (UTC) / 18288 days since Unix Epoch / Monday / Globus Pallidum day 121
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 4 days old / 2 years 3 months 15 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 4 天 / 成為病理專科醫師 2 年 3 個月 15 天
+
+## 本文 Content ##
+
+終究還是得要開始面對欠下的編曲工作，尤其是三月C院的演出，這個最不能拖稿。幸好經由十月的合作，我對C院內的演奏者們已經非常了解，因此可以對於配器做最好的安排。應該可以順利完成吧，我想。
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0122 2020/01/28 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月28日 / Unix 紀元 18289 日 / 星期二 / 蒼白球紀元第122日
+* January 28, 2020 (UTC) / 18289 days since Unix Epoch / Tuesday / Globus Pallidum day 122
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 5 days old / 2 years 3 months 16 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 5 天 / 成為病理專科醫師 2 年 3 個月 16 天
+
+## 本文 Content ##
+
+1. 在母后教我怎麼洗臉跟保養之後
+
+    臉終於穩定了。原來我之前完全就是不懂，臉才會搞砸。現在我的臉全面由母后指導，之後應該會越來越好。
+
+2. 2019年12月至2020年1月，武漢爆發新型冠狀病毒[1]肺炎
+
+    截至目前為止湖北省已封閉交通，中華人民共和國境內已經突破四千例，中華民國(台灣)境內也已經達到第八例，兩例在中部。感覺C院的工作接下來會非常的嚴峻。
+
+## 注釋 Comment ##
+
+[1] 冠狀病毒（英語：Coronavirus）是一類RNA病毒的總稱。它們往往會感染哺乳動物和鳥類，例如引起牛和豬的消化道疾病或雞的上呼吸道疾病。冠狀病毒也會引起人類的呼吸道感染，一般而言症狀輕微，但有時具有致命性，比如2020年的武漢冠狀病毒就是致命的。有10~15%的普通感冒由冠狀病毒引起。
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0123 2020/01/29 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月29日 / Unix 紀元 18290 日 / 星期三 / 蒼白球紀元第123日
+* January 29, 2020 (UTC) / 18290 days since Unix Epoch / Wednesday / Globus Pallidum day 123
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 6 days old / 2 years 3 months 17 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 6 天 / 成為病理專科醫師 2 年 3 個月 17 天
+
+## 本文 Content ##
+
+3/24的演出交差一首了，1/31團練先練這個韋瓦第的春。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0124 2020/01/30 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月30日 / Unix 紀元 18291 日 / 星期四 / 蒼白球紀元第124日
+* January 30, 2020 (UTC) / 18291 days since Unix Epoch / Thursday / Globus Pallidum day 124
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 7 days old / 2 years 3 months 18 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 7 天 / 成為病理專科醫師 2 年 3 個月 18 天
+
+## 本文 Content ##
+
+1. 有時候還是會覺得
+
+    像我這麼廢這麼糟糕又醜的人，真的有資格跟那些美麗的，努力的人活在同一個世界嗎？但偶爾看到更廢的人一樣活得心安理得的時候，又覺得其實也還好了。或許我的核心問題，真的是自我價值在某個時間點被拆毀了。
+
+2. 本來想要好好健身
+
+    但是已經積欠兩場演出的譜了，說實在接下來可能又會非常繁忙，哭了，要變美真是奢侈啊~
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0125 2020/01/31 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)1月31日 / Unix 紀元 18292 日 / 星期五 / 蒼白球紀元第125日
+* January 31, 2020 (UTC) / 18292 days since Unix Epoch / Friday / Globus Pallidum day 125
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 8 days old / 2 years 3 months 19 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 8 天 / 成為病理專科醫師 2 年 3 個月 19 天
+
+## 本文 Content ##
+
+看著存摺裡的小有積蓄，我決定把記帳軟體從手機[1]解除安裝，開始過一段好好花錢的放鬆日子，然後保養身體，變漂亮。
+
+決定從這一桶金開始彌補人生的所有缺憾。
+
+## 注釋 Comment ##
+
+[1] 指行動電話，見蒼白球日誌0064。
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0126 2020/02/01 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月1日 / Unix 紀元 18293 日 / 星期六 / 蒼白球紀元第126日
+* February 01, 2020 (UTC) / 18293 days since Unix Epoch / Saturday / Globus Pallidum day 126
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 9 days old / 2 years 3 months 20 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 9 天 / 成為病理專科醫師 2 年 3 個月 20 天
+
+## 本文 Content ##
+
+1. 稍微把事情都擺一邊來健身
+
+    就稍微抓到肌肉用力的方式了。或許就是要該拖的事情拖，才能把身體練好。
+
+2. 武漢肺炎[1]目前在中華民國境內已累積十例
+
+    國內風聲鶴唳，現在進出醫院跟大型公共場所都要戴口罩、量體溫，感覺世界整個都變得不一樣了。不只中華民國面臨很大的變化，許多國家也被迫關閉或減少與中華人民共和國之間的航線，彷彿電影般的情節正在這個世界上演。
+
+## 注釋 Comment ##
+
+[1] 詳情見蒼白球日誌0122
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0127 2020/02/02 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月2日 / Unix 紀元 18294 日 / 星期日 / 蒼白球紀元第127日
+* February 02, 2020 (UTC) / 18294 days since Unix Epoch / Sunday / Globus Pallidum day 127
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 10 days old / 2 years 3 months 21 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 10 天 / 成為病理專科醫師 2 年 3 個月 21 天
+
+## 本文 Content ##
+
+1. 感謝武漢肺炎[1]疫情，今天可以提早開始寫日誌
+
+    雖然有點幸災樂禍，但這疫情讓我突然多出了好多空嫌時間。首先是國小被延遲開學，導致K國小的演出可能延遲；接著，C院內的演出也很可能無法成行。因此，所有需要寫的曲子，都可以暫時拖稿了！可喜可賀，可喜可賀！我可以好好健身了！
+
+2. 男友來台中找我
+
+    一起泡澡的時候，他跟我討論了一些音樂的事情，結果居然就唱起歌來了。我試著說服他說唱歌其實並不簡單，使用我人體調音器的功能來示範說那些音，跟著我唱的音都會是準的。難得覺得自己是個有用的人。
+
+    然後給了他七本蒼白球日誌2019秋，拜託他放在店裡給大家參閱，順便答應他二月日誌會好好寫，不會像一月一樣擺爛。
+
+## 注釋 Comment ##
+
+[1] 詳情請見蒼白球日誌0122
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0128 2020/02/03 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月3日 / Unix 紀元 18295 日 / 星期一 / 蒼白球紀元第128日
+* February 03, 2020 (UTC) / 18295 days since Unix Epoch / Monday / Globus Pallidum day 128
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 11 days old / 2 years 3 months 22 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 11 天 / 成為病理專科醫師 2 年 3 個月 22 天
+
+## 本文 Content ##
+
+1. 慘了
+
+    因為武漢肺炎[1]的關係，行政院開始限制口罩的配給量為一周兩片，C院內部也開始限制口罩的配給量，這個情況下最尷尬的就是病理科[2]了。我們每天進出醫院，一周兩片不夠，但C院的口罩優先配給臨床科，所以萬一我手上的口罩用罄，就有可能會導致想上班卻被擋在醫院外面了！
+
+    看來得想想辦法。
+
+2. 決定全面保養後
+
+    睡前的流程變得無比麻煩，吃的有益生菌、B群、C，還有抗組織胺，然後卸妝洗臉洗臉後要抹化妝水，美白膠囊，杜鵑花酸跟保濕凝膠。
+
+    變美好辛苦喔。
+
+
+## 注釋 Comment ##
+
+[1] 有關武漢肺炎請見蒼白球日誌0122。
+
+[2] 有關病理請見蒼白球日誌0064。
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0129 2020/02/04 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月4日 / Unix 紀元 18296 日 / 星期二 / 蒼白球紀元第129日
+* February 04, 2020 (UTC) / 18296 days since Unix Epoch / Tuesday / Globus Pallidum day 129
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 12 days old / 2 years 3 months 23 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 12 天 / 成為病理專科醫師 2 年 3 個月 23 天
+
+## 本文 Content ##
+
+1. 痘痘被口罩罩住的地方
+
+    都會發炎地特別嚴重，因此聽從母后的建議，把它用痘痘貼貼起來，一方面可以抗菌，一方面也可以避免髒手摸到。
+
+2. 口罩問題暫時解決了[1]
+
+    每天可以去自家實驗室拿。還不錯。
+
+## 注釋 Comment ##
+
+[1] 有關口罩問題請見蒼白球日誌0128
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0130 2020/02/05 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月5日 / Unix 紀元 18297 日 / 星期三 / 蒼白球紀元第130日
+* February 05, 2020 (UTC) / 18297 days since Unix Epoch / Wednesday / Globus Pallidum day 130
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 13 days old / 2 years 3 months 24 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 13 天 / 成為病理專科醫師 2 年 3 個月 24 天
+
+## 本文 Content ##
+
+1. 因為武漢肺炎[1]的影響
+
+    健身房人變少了，同時健身教練因為生意變差，時間也變得非常地彈性。例如說，我突然想到禮拜五在C院有團練，無法上教練課，致電教練的結果居然是馬上排今天幫我上課，平常我可沒有這種待遇。
+
+    很弔詭，因為這種世界末日般的疫情，生活中的很多事情反而變得方便了。
+
+2. 然後，即使有疫情
+
+    禮拜五的團練還是有六個人會來，這非常出乎母后意料，他以為大家都不敢聚在一起了。其實目前台灣只有11例確診，真正的內行人都知道暫時不用怕。
+
+## 注釋 Comment ##
+
+[1] 見蒼白球日誌0122
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0131 2020/02/06 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月6日 / Unix 紀元 18298 日 / 星期四 / 蒼白球紀元第131日
+* February 06, 2020 (UTC) / 18298 days since Unix Epoch / Thursday / Globus Pallidum day 131
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 14 days old / 2 years 3 months 25 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 14 天 / 成為病理專科醫師 2 年 3 個月 25 天
+
+## 本文 Content ##
+
+昨天原本想要健身完，寫完日誌就睡，但反而睡不著。今天試著健身完做點病理再去睡，我相信應該會好很多，病理人不做病理是睡不著覺的。
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0132 2020/02/07 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月7日 / Unix 紀元 18299 日 / 星期五 / 蒼白球紀元第132日
+* February 07, 2020 (UTC) / 18299 days since Unix Epoch / Friday / Globus Pallidum day 132
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 15 days old / 2 years 3 months 26 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 15 天 / 成為病理專科醫師 2 年 3 個月 26 天
+
+## 本文 Content ##
+
+1. 「健身完先做個病理再去睡」的策略
+
+    在前半夜有奏效，但是居然三點多就醒了。這在美容覺的邏輯來講算是完全失敗了。今天試著用「練累一點」的策略，不知道會不會比較好睡。
+
+2. 有關3/24的演出
+
+    雖然不知道會不會因為疫情而告吹，但C院C主任告訴我，行政團隊還是很勤奮地在籌備中，甚至開始接洽校內的管樂團。聽到管樂團這三個字的時候，我眼睛亮了，因為只要把杜林雙隨的演出影片拿給他們看，管樂團很有機率會被我收編，變成我支配下的樂團。於是我把影片給了C主任，希望他跟管樂團談判後會帶來好消息。
+
+3. 昨天寫日誌居然不小心寫成了2/7
+
+    趕快更正
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0133 2020/02/08 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月8日 / Unix 紀元 18300 日 / 星期六 / 蒼白球紀元第133日
+* February 08, 2020 (UTC) / 18300 days since Unix Epoch / Saturday / Globus Pallidum day 133
+* 特殊註記: 元宵節
+
+## 年齡 Age ##
+
+* 33 years 9 months 16 days old / 2 years 3 months 27 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 16 天 / 成為病理專科醫師 2 年 3 個月 27 天
+
+## 本文 Content ##
+
+1. 回埤頭與阿嬤以及姑姑團聚
+
+    並祭拜阿公。回到台中之後，突然想起明明是元宵節還沒有吃湯圓，於是與母后及父皇煮了湯圓來吃。什麼時候我也開始在意這種儀式了，人老了果然會改變很多事。
+
+2. 試著看了幾頁傅柯的「規訓與懲罰」
+
+    但有點太硬了。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0134 2020/02/09 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月9日 / Unix 紀元 18301 日 / 星期日 / 蒼白球紀元第134日
+* February 09, 2020 (UTC) / 18301 days since Unix Epoch / Sunday / Globus Pallidum day 134
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 17 days old / 2 years 3 months 28 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 17 天 / 成為病理專科醫師 2 年 3 個月 28 天
+
+## 本文 Content ##
+
+1. 父皇跟母后載我去屏東參加我同學婚禮
+
+    婚禮辦在他們自宅的庭園裡面，旁邊滿滿的都是果樹，真的是又遠又偏僻的一個地方，要不是他是我第一部作品首演的團員，意義很特殊，不然平常的我絕對不會去這種地方參加婚禮。
+
+    至於為什麼他們要載我去，因為我提到要去婚禮的時候，他們就說「肺炎疫情[1]這麼嚴重，不要搭高鐵吧！」就決定載我去。被這樣壓迫性地愛著感覺好沒面子喔。
+
+2. 然後從屏東回程的時候
+
+    我們一家三人買了當地特產的蓮霧跟菱角回家。都好好吃。
+
+## 注釋 Comment ##
+
+[1] 見蒼白球日誌0122。
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0135 2020/02/10 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月10日 / Unix 紀元 18302 日 / 星期一 / 蒼白球紀元第135日
+* February 10, 2020 (UTC) / 18302 days since Unix Epoch / Monday / Globus Pallidum day 135
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 18 days old / 2 years 3 months 29 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 18 天 / 成為病理專科醫師 2 年 3 個月 29 天
+
+## 本文 Content ##
+
+睡前的手續變得特別的繁瑣了。牙線，牙刷，漱口水，痘痘藥，痘痘貼，保養品。再加上健身的話，其實生活中有一大片時間都花在變美上面了。
+
+值得嗎，我也不知道。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0136 2020/02/11 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月11日 / Unix 紀元 18303 日 / 星期二 / 蒼白球紀元第136日
+* February 11, 2020 (UTC) / 18303 days since Unix Epoch / Tuesday / Globus Pallidum day 136
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 19 days old / 2 years 3 months 30 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 19 天 / 成為病理專科醫師 2 年 3 個月 30 天
+
+## 本文 Content ##
+
+1. 口腔癌
+
+    切開一個口腔癌的腫瘤，一股腐肉味撲鼻而來。在我心目中，真的沒有比頭頸癌更慘的病了，目前的醫療根本沒有任何方式可以阻止它在活人身上發臭，長在人體最醒目的地點，很痛，又妨礙進食，對於患者跟旁人來講都是無比的折磨。
+
+    所以真的要好好注意自己的口腔裡面有沒有白斑。如果它變癌症是很麻煩的。
+
+2. 開始注意三角肌的訓練，並且正確出力以後
+
+    肩膀的線條開始出現了，有生以來第一次感受到肩膀有長出來的感覺。再兩個月應該可以不錯。
+
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0137 2020/02/12 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月12日 / Unix 紀元 18304 日 / 星期三 / 蒼白球紀元第137日
+* February 12, 2020 (UTC) / 18304 days since Unix Epoch / Wednesday / Globus Pallidum day 137
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 20 days old / 2 years 4 months 0 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 20 天 / 成為病理專科醫師 2 年 4 個月 0 天
+
+## 本文 Content ##
+
+1. 某大律師曾說過
+
+    「只要手上有個相機/狗/貓/甜點/紅酒/音響/特斯拉，什麼圈都有這種資源/權力/符號崇拜的現象，不是龍五也能搞上床。」但奇怪的是，身為一個編曲者跟指揮，我似乎並沒有受益於這種現象的跡象，並沒有因為編曲跟指揮而得到很多年輕男性的肉體。後來仔細想想，可能跟前陣子演出的時候從某幾個年長女性的談話內容有關。
+
+    「欸那個指揮私底下感覺好害羞喔」「可是他在指揮的時候看起來很威風」「哈真的，好可愛」。
+
+    看來有兩個模式的蒼白球，一個是閃閃發光刺眼的超新星蒼白球，另一個是悶悶的羞羞的但其實莫名好色的白矮星蒼白球。我很討厭超新星，那個只是職業上需要的角色，但比較多人喜歡那個。我希望人們喜歡小小的白矮星，但白矮星很明顯地無法施展資源/權力/符號崇拜的魔術。
+
+    原來使用符號崇拜的人必須長期維持超新星燃燒狀態，下不了台啊，其實也真是辛苦他們了。
+
+2. 去公園
+
+    依然沒有人正眼看我。我有長得那麼醜嗎？
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0138 2020/02/13 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月13日 / Unix 紀元 18305 日 / 星期四 / 蒼白球紀元第138日
+* February 13, 2020 (UTC) / 18305 days since Unix Epoch / Thursday / Globus Pallidum day 138
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 21 days old / 2 years 4 months 1 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 21 天 / 成為病理專科醫師 2 年 4 個月 1 天
+
+## 本文 Content ##
+
+1. 糟糕，K國小跟C院都開始催稿了
+
+    準備進入編曲地獄了嗎？這一定是小時候亂許願的報應，早知道就不該希望能夠在音樂上面被肯定的，這下真的被肯定了，但超級累的。
+
+    然後關於這件事情，母后的評論：「疫情[1]這樣還辦演出，還催稿，他們有病嗎？」
+
+2. 在正式進入編曲地獄前
+
+    先把握機會睡美容覺吧。
+
+## 注釋 Comment ##
+
+[1] 指武漢肺炎。疫情概況：中華人民共和國境內累計確診59879例， 現有疑似 13435例，累計治愈5955例，現有重症8030例，累計死亡 1368例。中華民國境內確診18例，死亡0例。另外，新加坡與日本已出現境內案例。有關武漢肺炎見蒼白球日誌0122。
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0139 2020/02/14 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月14日 / Unix 紀元 18306 日 / 星期五 / 蒼白球紀元第139日
+* February 14, 2020 (UTC) / 18306 days since Unix Epoch / Friday / Globus Pallidum day 139
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 22 days old / 2 years 4 months 2 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 22 天 / 成為病理專科醫師 2 年 4 個月 2 天
+
+## 本文 Content ##
+
+因為計算報告時效性的公式突然改變了，今年的考核分數突然某個小項目變成零分，心情好差。
+
+本來以為自己已經苦盡甘來了，可以好好變年輕變漂亮，結果還是要面臨這種壓力。要不是我有研究論文可以補那個分數，所以暫時沒有生命危險，還真想要去現任醫品推動人那邊哭。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0140 2020/02/15 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月15日 / Unix 紀元 18307 日 / 星期六 / 蒼白球紀元第140日
+* February 15, 2020 (UTC) / 18307 days since Unix Epoch / Saturday / Globus Pallidum day 140
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 23 days old / 2 years 4 months 3 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 23 天 / 成為病理專科醫師 2 年 4 個月 3 天
+
+## 本文 Content ##
+
+做完臉以後稍微處理了一下切片跟論文投稿事宜，平靜的一天。
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0141 2020/02/16 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月16日 / Unix 紀元 18308 日 / 星期日 / 蒼白球紀元第141日
+* February 16, 2020 (UTC) / 18308 days since Unix Epoch / Sunday / Globus Pallidum day 141
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 24 days old / 2 years 4 months 4 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 24 天 / 成為病理專科醫師 2 年 4 個月 4 天
+
+## 本文 Content ##
+
+1. 武漢肺炎[1]疫情
+
+    C市出現了社區感染，等於宣告C市成為疫區。看來我的編曲就算拖稿也沒關係了，不太可能演出了，可喜可賀！可喜可賀！
+
+2. 稍微練一下胸，脹奶以後跑去亞當三溫暖[2]一趟
+
+    在走廊上遊走的時候，所有人依然用輕蔑的眼神走過我身旁，連看都不想看，畢竟身材還沒有到很好看。
+
+    然而走進蒸氣室跟暗房大通鋪的時候，突然情形不一樣了，好像那個一點點胸型發揮了很多作用，被很多其實感覺還不錯的人摸。後來跟台中脫光光群組[3]討論以後，才發現原來除了暗處看不清楚全貌大家會比較不挑以外，另外台中人比較害羞，只有在無光的地方比較放得開。
+
+    好像學到了什麼。
+
+3. 被H大的研究生催研究進度
+
+    看起來就算研究想要偷懶也不行呢。只好好好做了。
+
+## 注釋 Comment ##
+
+[1] 見蒼白球日誌0122。
+
+[2] 應該要註解個什麼，可是到底要怎麼用有限的註解去描述同志三溫暖這樣的地方呢？不如大家自己查。
+
+[3] 這邊應該也要註解些什麼，痾，不過......要怎麼解釋？
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0142 2020/02/17 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月17日 / Unix 紀元 18309 日 / 星期一 / 蒼白球紀元第142日
+* February 17, 2020 (UTC) / 18309 days since Unix Epoch / Monday / Globus Pallidum day 142
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 25 days old / 2 years 4 months 5 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 25 天 / 成為病理專科醫師 2 年 4 個月 5 天
+
+## 本文 Content ##
+
+提早下班回家，跟父皇、母后跟他們的摯友兩人，五人煮蛤蠣鍋吃。內容相當美味，因為湯頭是從有名的火鍋店包的，其他用料則是他們四人精心挑選的。
+
+不得不說我的上一代真的很懂吃。本來我有潛力變得這麼懂吃，但自從歷經了某些事情以後，很多念頭淹沒了吃的快樂。現在食物已經無法讓我快樂起來了。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0143 2020/02/18 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月18日 / Unix 紀元 18310 日 / 星期二 / 蒼白球紀元第143日
+* February 18, 2020 (UTC) / 18310 days since Unix Epoch / Tuesday / Globus Pallidum day 143
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 26 days old / 2 years 4 months 6 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 26 天 / 成為病理專科醫師 2 年 4 個月 6 天
+
+## 本文 Content ##
+
+1. 
+
+    
+2. 雜記:物價與其他[2]
+
+    
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0144 2020/02/19 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月19日 / Unix 紀元 18311 日 / 星期三 / 蒼白球紀元第144日
+* February 19, 2020 (UTC) / 18311 days since Unix Epoch / Wednesday / Globus Pallidum day 144
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 27 days old / 2 years 4 months 7 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 27 天 / 成為病理專科醫師 2 年 4 個月 7 天
+
+## 本文 Content ##
+
+明天必須完成K國小委託的交響詩「哪吒的蘇生」，可是我剛剛才開始動筆。這真的有夠刺激，再次挑戰自己的手速。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0145 2020/02/20 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月20日 / Unix 紀元 18312 日 / 星期四 / 蒼白球紀元第145日
+* February 20, 2020 (UTC) / 18312 days since Unix Epoch / Thursday / Globus Pallidum day 145
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 28 days old / 2 years 4 months 8 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 28 天 / 成為病理專科醫師 2 年 4 個月 8 天
+
+## 本文 Content ##
+
+## 注釋 Comment ##
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0146 2020/02/21 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月21日 / Unix 紀元 18313 日 / 星期五 / 蒼白球紀元第146日
+* February 21, 2020 (UTC) / 18313 days since Unix Epoch / Friday / Globus Pallidum day 146
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 29 days old / 2 years 4 months 9 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 29 天 / 成為病理專科醫師 2 年 4 個月 9 天
+
+## 本文 Content ##
+
+K國小的委託創作，「再造封神 I: 哪吒的甦生」，寫了一半以後先拿去給業主驗收了。
+
+這首曲子我有點半故意地寫成我自己聽了爽的樣子，而不是適合國小的樣子，所以原本很怕指揮在練習之後會對這首曲子很不開心，但結果指揮只說了一句「好這一半我練完了，下一半請快點給我」，沒有給予任何建議。
+
+雖然說輕易地交差對我來講很輕鬆，但是在音樂上這是不對的，因為作曲家的想像與實際效果往往有差異，因此樂團作品的首演，往往牽涉指揮家與作曲家的良好溝通，等同共同創作。指揮家如不願意參與首演的創作過程，就是對音樂不負責任；如果不知道怎麼參與首演的創作過程，就是對音樂無知。
+
+母后說：「那個人反正就沒有品味，不要理他。」嗯，真的。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0147 2020/02/22 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月22日 / Unix 紀元 18314 日 / 星期六 / 蒼白球紀元第147日
+* February 22, 2020 (UTC) / 18314 days since Unix Epoch / Saturday / Globus Pallidum day 147
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 9 months 30 days old / 2 years 4 months 10 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 9 個月 30 天 / 成為病理專科醫師 2 年 4 個月 10 天
+
+## 本文 Content ##
+
+K國小的委託創作，「再造封神 I: 哪吒的蘇生」大致定稿。原本以為會是一個很平淡的曲子，但是沒想到寫到中段以後，因為許多情感的浮現，旋律開始變得越來越深刻，現在已經變成一個有光輝有黑暗，有歡笑有血淚的熱血之作了。跟自己比較的話，這首曲子超越了「第一號交響序曲，一代醫人杜聰明」的高度，算是有進步。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0148 2020/02/23 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月23日 / Unix 紀元 18315 日 / 星期日 / 蒼白球紀元第148日
+* February 23, 2020 (UTC) / 18315 days since Unix Epoch / Sunday / Globus Pallidum day 148
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 10 months 0 days old / 2 years 4 months 11 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 10 個月 0 天 / 成為病理專科醫師 2 年 4 個月 11 天
+
+## 本文 Content ##
+
+1. 
+
+    
+2. 雜記:物價與其他[2]
+
+    
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0149 2020/02/24 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月24日 / Unix 紀元 18316 日 / 星期一 / 蒼白球紀元第149日
+* February 24, 2020 (UTC) / 18316 days since Unix Epoch / Monday / Globus Pallidum day 149
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 10 months 1 days old / 2 years 4 months 12 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 10 個月 1 天 / 成為病理專科醫師 2 年 4 個月 12 天
+
+## 本文 Content ##
+
+1. 
+
+    
+2. 雜記:物價與其他[2]
+
+    
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0150 2020/02/25 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月25日 / Unix 紀元 18317 日 / 星期二 / 蒼白球紀元第150日
+* February 25, 2020 (UTC) / 18317 days since Unix Epoch / Tuesday / Globus Pallidum day 150
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 10 months 2 days old / 2 years 4 months 13 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 10 個月 2 天 / 成為病理專科醫師 2 年 4 個月 13 天
+
+## 本文 Content ##
+
+1. 
+
+    
+2. 雜記:物價與其他[2]
+
+    
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0151 2020/02/26 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月26日 / Unix 紀元 18318 日 / 星期三 / 蒼白球紀元第151日
+* February 26, 2020 (UTC) / 18318 days since Unix Epoch / Wednesday / Globus Pallidum day 151
+
+## 年齡 Age ##
+
+* 33 years 10 months 3 days old / 2 years 4 months 14 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 10 個月 3 天 / 成為病理專科醫師 2 年 4 個月 14 天
+
+## 本文 Content ##
+
+1. 今年的考核勉強是過了
+
+    雖然至少可以保住這個工作一年，但主管給的分數沒有像之前那麼甜，有點擔心主管未來幾年會不會想要趕我走，因此跟母后討論了一下。
+
+    經過一些仔細分析之後，母后有兩個結論，第一個結論，我們主管最大的罩門就是研究能量不夠，所以現在要投出去的這一篇文章，給他掛個名他應該會有點感覺。第二，把我趕走，科內少一個正在進修的人，帳面上非常不好看，殺我沒有意義。
+
+    突然覺得滿有道理的，心情安穩了一些。
+
+2. 這次K國小的案子
+
+    交了並不是很好的作品出去，心裡其實有點不太舒服，但是畢竟我已經決定要過一段舒服日子，花太多時間在作品上面不妥，所以只好放手。世界終究是有一些缺陷的。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0152 2020/02/27 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月27日 / Unix 紀元 18319 日 / 星期四 / 蒼白球紀元第152日
+* February 27, 2020 (UTC) / 18319 days since Unix Epoch / Thursday / Globus Pallidum day 152
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 10 months 4 days old / 2 years 4 months 15 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 10 個月 4 天 / 成為病理專科醫師 2 年 4 個月 15 天
+
+## 本文 Content ##
+
+稍微從前陣子的混亂恢復一點以後，終於開始好好注意個人清潔程序了。牙線牙刷刮舌棒，卸妝洗臉洗兩回。美白保濕痘痘藥，無菌生理食鹽水。真的好麻煩，但是這是成為天菜的必經之路吧。忍耐，忍耐。
+
+## 注釋 Comment ##
+
+## 附錄 Appendix ##
+
+
+# 蒼白球日誌0153 2020/02/28 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月28日 / Unix 紀元 18320 日 / 星期五 / 蒼白球紀元第153日
+* February 28, 2020 (UTC) / 18320 days since Unix Epoch / Friday / Globus Pallidum day 153
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 10 months 5 days old / 2 years 4 months 16 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 10 個月 5 天 / 成為病理專科醫師 2 年 4 個月 16 天
+
+## 本文 Content ##
+
+1. 
+
+    
+2. 雜記:物價與其他[2]
+
+    
+
+## 注釋 Comment ##
+
+[1] 
+
+
+[2] 新台幣計價。有關新台幣請參見蒼白球日誌0007。
+
+
+
+## 附錄 Appendix ##
+
+
+
+# 蒼白球日誌0154 2020/02/29 #
+
+## 日期 Date ##
+
+* 世界協調時間2020年(中華民國109年，令和2年)2月29日 / Unix 紀元 18321 日 / 星期六 / 蒼白球紀元第154日
+* February 29, 2020 (UTC) / 18321 days since Unix Epoch / Saturday / Globus Pallidum day 154
+* 特殊註記:
+
+## 年齡 Age ##
+
+* 33 years 10 months 6 days old / 2 years 4 months 17 days after acquiring ROC Surgical Pathology Licence
+* 33 歲 10 個月 6 天 / 成為病理專科醫師 2 年 4 個月 17 天
+
+## 本文 Content ##
+
+1. 健身
+
+    上個禮拜熬夜寫稿幾天以後，今天勉強開始健身，肌力果然明顯下降了。果然這件事情需要耗費大量的時間跟紀律才能夠做好呢。
+
+2. 保養
+
+    上個禮拜熬夜寫稿幾天之後，又大吃大喝幾天，痘痘惡化了。果然這件事情需要耗費大量的時間跟紀律才能夠做好呢。
+
+3. 結論
+
+    真的不要抱怨天菜多無腦，如果在健身跟保養上面花了很多很多心思，然後又受到周圍的人吹捧的話，真的很難有什麼多餘的腦力可以反思。
+
+4. 季末結語
+
+    糟透了，個人層面各種混亂的冬季。比較值得欣慰的是完成了幾首還可以的編曲，然後在武漢肺炎[1]讓全球股市重挫之前，把所有金融商品換成了定期存款。春暖花開，相信春天不會再這麼糟了。
+
+## 注釋 Comment ##
+
+[1] 見蒼白球日誌0122。
+
+## 附錄 Appendix ##
+
