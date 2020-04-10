@@ -60,22 +60,22 @@ def convertmonth(s):
     with destfile_tex.open("w", encoding="utf-8") as f:
         f.write(pandoc_tex(str(destfile)))
 
-"""
-for item in ["201910", "201911", "201909", "202003"]:
+
+for item in ["201909", "201910", "201911", "201912", "202001", "202002", "202003"]:
     convertmonth(item)
 
-"""
+
 dest = convenientpath.get_dest("md")
 dest_html = convenientpath.get_dest("html")
 dest_txt = convenientpath.get_dest("txt")
 dest_tex = convenientpath.get_dest("tex")
-destfile = dest / "test2020spring.md"
-destfile_html = dest_html / "test2019spring.html"
-destfile_txt = dest_txt / "test2019spring.txt"
-destfile_tex = dest_tex / "test2019spring.tex"
+destfile = dest / "gpdiary2019autumn.md"
+destfile_html = dest_html / "gpdiary2019autumn.html"
+destfile_txt = dest_txt / "gpdiary2019autumn.txt"
+destfile_tex = dest_tex / "gpdiary2019autumn.tex"
 
 testlist = []
-for item in ["202003", "202004", "202005"]:
+for item in ["201909", "201910", "201911"]:
     source = convenientpath.get_source() / item 
     testlist += sorted(source.glob("*.md"))
 newmd = concatmd(testlist)
@@ -88,3 +88,24 @@ with destfile_txt.open("w", encoding="utf-8") as f:
     f.write(pandoc_txt(str(destfile)))
 with destfile_tex.open("w", encoding="utf-8") as f:
     f.write(pandoc_tex(str(destfile)))
+
+destfile = dest / "gpdiary2019winter.md"
+destfile_html = dest_html / "gpdiary2019winter.html"
+destfile_txt = dest_txt / "gpdiary2019winter.txt"
+destfile_tex = dest_tex / "gpdiary2019winter.tex"
+
+testlist = []
+for item in ["201912", "202001", "202002"]:
+    source = convenientpath.get_source() / item 
+    testlist += sorted(source.glob("*.md"))
+newmd = concatmd(testlist)
+newmd.replace("---", "")
+with destfile.open("w", encoding="utf-8") as f:
+    f.write(newmd)
+with destfile_html.open("w", encoding="utf-8") as f:
+    f.write(pandoc_html(str(destfile)))
+with destfile_txt.open("w", encoding="utf-8") as f:
+    f.write(pandoc_txt(str(destfile)))
+with destfile_tex.open("w", encoding="utf-8") as f:
+    f.write(pandoc_tex(str(destfile)))
+
