@@ -1,10 +1,26 @@
+GPHEADER =[ '[_metadata_:encoding]: - "utf-8"',
+        '[_metadata_:fileformat]: - "markdown"',
+        '[_metadata_:MIME_type]: - "text/plain"',
+        '[_metadata_:markdown_version]: - "commonmark version 0.29"',
+        '[_metadata_:markdown_spec]: - "https://spec.commonmark.org/0.29/"']
+
 from convenientpath import convenientpath
 from pathlib import Path 
 from runpandoc import pandoc_html
 from runpandoc import pandoc_txt
 from runpandoc import pandoc_tex
 
+def add_encoding_header(s):
+    return "\n".join(GPHEADER) + "\n\n" + s 
+
+def _remove_encoding_header(li):
+    while "metadata" in li[0]:
+        li.pop(0)
+    if li[0] == "\n":
+        li.pop(0)
+
 def _normalize_text_inner(li):
+    _remove_encoding_header(li)
     if "===" in li[1]:
         li.pop(1)
     if "###### tags" in li[-1]:
@@ -46,10 +62,10 @@ def convertmonth(s):
     destfile_html = dest_html / "gpdiary{}.html".format(s)
     destfile_txt = dest_txt / "gpdiary{}.txt".format(s)
     destfile_tex = dest_tex / "gpdiary{}.tex".format(s)
+    source = convenientpath.get_source() / s
     li = []
-    source = convenientpath.get_source() / item 
-    li += sorted(source.glob("*.md"))
-    newmd = concatmd(li)
+    li += sorted(source.glob("*.md"))    
+    newmd = add_encoding_header(concatmd(li))
     newmd.replace("---", "")
     with destfile.open("w", encoding="utf-8") as f:
         f.write(newmd)
@@ -64,7 +80,7 @@ def convertmonth(s):
 for item in ["201909", "201910", "201911", "201912", "202001", "202002", "202003"]:
     convertmonth(item)
 
-
+"""
 dest = convenientpath.get_dest("md")
 dest_html = convenientpath.get_dest("html")
 dest_txt = convenientpath.get_dest("txt")
@@ -109,3 +125,4 @@ with destfile_txt.open("w", encoding="utf-8") as f:
 with destfile_tex.open("w", encoding="utf-8") as f:
     f.write(pandoc_tex(str(destfile)))
 
+"""
