@@ -9,6 +9,8 @@ from pathlib import Path
 from runpandoc import pandoc_html
 from runpandoc import pandoc_txt
 from runpandoc import pandoc_tex
+from runpandoc import pandoc_tei
+from runpandoc import pandoc_docbook
 
 def add_encoding_header(s):
     return "\n".join(GPHEADER) + "\n\n" + s 
@@ -58,10 +60,14 @@ def convertmonth(s):
     dest_html = convenientpath.get_dest("html")
     dest_txt = convenientpath.get_dest("txt")
     dest_tex = convenientpath.get_dest("tex")
+    dest_tei = convenientpath.get_dest("xml_tei")
+    dest_docbook = convenientpath.get_dest("xml_docbook")
     destfile = dest / "gpdiary{}.md".format(s)
     destfile_html = dest_html / "gpdiary{}.html".format(s)
     destfile_txt = dest_txt / "gpdiary{}.txt".format(s)
     destfile_tex = dest_tex / "gpdiary{}.tex".format(s)
+    destfile_tei = dest_tei / "gpdiary{}.xml".format(s)
+    destfile_docbook = dest_docbook / "gpdiary{}.xml".format(s)
     source = convenientpath.get_source() / s
     li = []
     li += sorted(source.glob("*.md"))    
@@ -75,6 +81,10 @@ def convertmonth(s):
         f.write(pandoc_txt(str(destfile)))
     with destfile_tex.open("w", encoding="utf-8") as f:
         f.write(pandoc_tex(str(destfile)))
+    with destfile_tei.open("w", encoding="utf-8") as f:
+        f.write(pandoc_tei(str(destfile)))
+    with destfile_docbook.open("w", encoding="utf-8") as f:
+        f.write(pandoc_docbook(str(destfile)))
 
 
 for item in ["201909", "201910", "201911", "201912", "202001", "202002", "202003"]:
