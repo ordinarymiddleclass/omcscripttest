@@ -1,3 +1,9 @@
+GPHEADER =[ '[_metadata_:encoding]: - "utf-8"',
+        '[_metadata_:language]: - "zh-Hant-TW"',
+        '[_metadata_:fileformat]: - "markdown"',
+        '[_metadata_:MIME_type]: - "text/plain"',
+        '[_metadata_:markdown_version]: - "commonmark version 0.29"',
+        '[_metadata_:markdown_spec]: - "https://spec.commonmark.org/0.29/"']
 zhweekday = ["星期日", "星期一", "星期二",
             "星期三", "星期四", "星期五", "星期六"]
 
@@ -106,12 +112,13 @@ def create_template_body():
     upper_body.add_ol("", 1)
     upper_body.add_ol("防疫筆記[1]", 2)
     upper_body.add_ol("蒼白球飲食誌暨物價筆記[2]", 3)
-    lower_body.add_comment("指武漢肺炎(COVID-19)疫情，有關此瘟疫請見蒼白球日誌0155，此瘟疫造成的慘況請見蒼白球日誌0155-0184", 1)
+    lower_body.add_comment("指武漢肺炎(COVID-19)疫情，有關此瘟疫請見蒼白球日誌0155，此瘟疫造成的慘況請見蒼白球日誌0155-0220", 1)
     lower_body.add_comment("新台幣計價。有關新台幣請參見蒼白球日誌0155。此刻匯率為1美元兌新台幣，金價每盎司美元，西德州中級(WTI)原油價格每桶美元。", 2)
     return upper_body.compile() + lower_body.compile() + appendix.compile()
 
 def create_template(d):
-    return create_filehead(d) + create_template_body()
+    head = "\n".join(GPHEADER)
+    return head + "\n\n" + create_filehead(d) + create_template_body()
 
 def create_file(d, path):
     newfilepath = path / format_filename (d)
@@ -125,7 +132,7 @@ def create_file(d, path):
 current_path = Path(os.path.realpath(__file__))
 root = current_path.parent.parent
 rootpath = root / "source"
-for i in range(100):
+for i in range(25):
     newday = datetime.now() + timedelta(days=i)
     create_file(newday, rootpath)
 
