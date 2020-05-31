@@ -28,6 +28,14 @@ def from_licence (d):
     birthday = datetime(2017, 10, 12)
     return relativedelta.relativedelta(d, birthday) 
 
+def isotretinoin (d):
+    isoday = datetime(2020, 5, 2)
+    return relativedelta.relativedelta(d, isoday) 
+
+def iso_twenty (d):
+    isoday = datetime(2020, 5, 28)
+    return relativedelta.relativedelta(d, isoday) 
+
 def from_epoch (d):
     return (d - datetime(1970,1,1)).days
 
@@ -71,8 +79,8 @@ def format_age (d):
     licence_years = licence_age.years
     licence_months = licence_age.months
     licence_days = licence_age.days
-    li.add_ul('{} years {} months {} days old / {} years {} months {} days after acquiring ROC Surgical Pathology Licence'.format(years, months, days, licence_years, licence_months, licence_days))
     li.add_ul('{} 歲 {} 個月 {} 天 / 成為病理專科醫師 {} 年 {} 個月 {} 天'.format(years, months, days, licence_years, licence_months, licence_days))
+    li.add_ul('{} years {} months {} days old / {} years {} months {} days after acquiring ROC Surgical Pathology Licence'.format(years, months, days, licence_years, licence_months, licence_days))
     return li.compile()
 
 def format_date_information (d):
@@ -83,7 +91,7 @@ def format_date_information (d):
         " / " + format_weekday_en(d) + " / " + format_gp_en(d)    
     li.add_ul(date_information_zh)
     li.add_ul(date_information_en)
-    li.add_ul("特殊註記:")
+    li.add_ul("特殊註記: 口服A酸第{}天，劑量加大到20mg QD第{}天".format(isotretinoin(d).days, iso_twenty(d).days))
     return li.compile()
 
 def format_title (d):
@@ -110,10 +118,8 @@ def create_template_body():
     lower_body = lazymdwriter.convenient_list("注釋 Comment")
     appendix = lazymdwriter.convenient_list("附錄 Appendix")
     upper_body.add_ol("", 1)
-    upper_body.add_ol("防疫筆記[1]", 2)
-    upper_body.add_ol("蒼白球飲食誌暨物價筆記[2]", 3)
-    lower_body.add_comment("指武漢肺炎(COVID-19)疫情，有關此瘟疫請見蒼白球日誌0155，此瘟疫造成的慘況請見蒼白球日誌0155-0220", 1)
-    lower_body.add_comment("新台幣計價。有關新台幣請參見蒼白球日誌0155。此刻匯率為1美元兌新台幣，金價每盎司美元，西德州中級(WTI)原油價格每桶美元。", 2)
+    upper_body.add_ol("蒼白球飲食誌暨物價筆記[1]", 2)
+    lower_body.add_comment("新台幣計價。有關新台幣請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。", 1)
     return upper_body.compile() + lower_body.compile() + appendix.compile()
 
 def create_template(d):
@@ -132,7 +138,7 @@ def create_file(d, path):
 current_path = Path(os.path.realpath(__file__))
 root = current_path.parent.parent
 rootpath = root / "source"
-for i in range(25):
+for i in range(100):
     newday = datetime.now() + timedelta(days=i)
     create_file(newday, rootpath)
 
