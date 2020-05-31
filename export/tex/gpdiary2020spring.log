@@ -1,12 +1,12 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200) (preloaded format=xelatex 2019.10.26)  13 MAY 2020 15:49
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200) (preloaded format=xelatex 2019.10.26)  31 MAY 2020 17:45
 entering extended mode
 **./gpdiary2020spring.tex
 (gpdiary2020spring.tex
 LaTeX2e <2019-10-01>
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
 Document Class: book 2019/08/27 v1.4j Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk11.clo"
-File: bk11.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk12.clo"
+File: bk12.clo 2019/08/27 v1.4j Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -826,22 +826,22 @@ LaTeX Font Info:    ... okay on input line 67.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
 * h-part:(L,W,R)=(65.44142pt, 304.44432pt, 51.21504pt)
-* v-part:(T,H,B)=(71.70166pt, 468.90071pt, 56.9055pt)
+* v-part:(T,H,B)=(71.70166pt, 460.36479pt, 65.44142pt)
 * \paperwidth=421.10078pt
 * \paperheight=597.50787pt
 * \textwidth=304.44432pt
-* \textheight=468.90071pt
+* \textheight=460.36479pt
 * \oddsidemargin=-6.82857pt
 * \evensidemargin=-21.05495pt
-* \topmargin=-77.34763pt
-* \headheight=56.9055pt
+* \topmargin=-80.19307pt
+* \headheight=59.75095pt
 * \headsep=19.8738pt
-* \topskip=11.0pt
-* \footskip=27.46295pt
+* \topskip=12.0pt
+* \footskip=30.0pt
 * \marginparwidth=51.0pt
 * \marginparsep=7.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -893,7 +893,7 @@ DFLT;"
 (fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 67.
+(Font)              scaled to size 12.0pt on input line 67.
 
 Package fontspec Info: latinmodern-math scale = 1.
 
@@ -913,18 +913,18 @@ Package fontspec Info: latinmodern-math scale = 1.
 Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
 (fontspec)             'latinmodern-math.otf' with options
 (fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
-allCapsFont={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.3075,Font=
-latinmodern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,St
-yle=MathScriptScript}},BoldFont={latinmodern-math.otf}].
+allCapsFont={},Script=Math,SizeFeatures={{Size=10.2-},{Size=7.2-10.2,Font=latin
+modern-math.otf,Style=MathScript},{Size=-7.2,Font=latinmodern-math.otf,Style=Ma
+thScriptScript}},BoldFont={latinmodern-math.otf}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <9.3075->s*[1]"[latinmodern-math.otf]/OT:script=math;lan
-guage=DFLT;"<6.57-9.3075>s*[1]"[latinmodern-math.otf]/OT:script=math;language=D
-FLT;+ssty=0;"<-6.57>s*[1]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+
-ssty=1;"
+(fontspec)             <10.2->s*[1]"[latinmodern-math.otf]/OT:script=math;langu
+age=DFLT;"<7.2-10.2>s*[1]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+
+ssty=0;"<-7.2>s*[1]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1
+;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (bx/n) with NFSS spec.:
 (fontspec)             <->s*[1]"[latinmodern-math.otf]/OT:script=math;language=
@@ -932,7 +932,7 @@ DFLT;"
 (fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 67.
+(Font)              scaled to size 12.0pt on input line 67.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
 (Font)              `operators' in the math version `normal' on input line 67.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -977,56 +977,56 @@ Package fontspec Info: latinmodern-math scale = 1.0001.
 Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 (fontspec)             'latinmodern-math.otf' with options
 (fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
-allCapsFont={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.3075,Font=
-latinmodern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,St
-yle=MathScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAd
-justment={\fontdimen
-(fontspec)             8\font =7.41315pt\relax \fontdimen 9\font
-(fontspec)             =4.3143pt\relax \fontdimen 10\font =4.8618pt\relax
-(fontspec)             \fontdimen 11\font =7.5117pt\relax \fontdimen 12\font
-(fontspec)             =3.77776pt\relax \fontdimen 13\font =3.97485pt\relax
-(fontspec)             \fontdimen 14\font =3.97485pt\relax \fontdimen 15\font
-(fontspec)             =3.16455pt\relax \fontdimen 16\font =2.70465pt\relax
-(fontspec)             \fontdimen 17\font =2.70465pt\relax \fontdimen 18\font
-(fontspec)             =2.7375pt\relax \fontdimen 19\font =2.19pt\relax
-(fontspec)             \fontdimen 22\font =2.7375pt\relax \fontdimen 20\font
-(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax }].
+allCapsFont={},Script=Math,SizeFeatures={{Size=10.2-},{Size=7.2-10.2,Font=latin
+modern-math.otf,Style=MathScript},{Size=-7.2,Font=latinmodern-math.otf,Style=Ma
+thScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=1.0001,FontAdjustme
+nt={\fontdimen
+(fontspec)             8\font =8.124pt\relax \fontdimen 9\font =4.728pt\relax
+(fontspec)             \fontdimen 10\font =5.328pt\relax \fontdimen 11\font
+(fontspec)             =8.232pt\relax \fontdimen 12\font =4.14pt\relax
+(fontspec)             \fontdimen 13\font =4.356pt\relax \fontdimen 14\font
+(fontspec)             =4.356pt\relax \fontdimen 15\font =3.468pt\relax
+(fontspec)             \fontdimen 16\font =2.964pt\relax \fontdimen 17\font
+(fontspec)             =2.964pt\relax \fontdimen 18\font =3.0pt\relax
+(fontspec)             \fontdimen 19\font =2.4pt\relax \fontdimen 22\font
+(fontspec)             =3.0pt\relax \fontdimen 20\font =0pt\relax \fontdimen
+(fontspec)             21\font =0pt\relax }].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <9.3075->s*[1.0001]"[latinmodern-math.otf]/OT:script=mat
-h;language=DFLT;"<6.57-9.3075>s*[1.0001]"[latinmodern-math.otf]/OT:script=math;
-language=DFLT;+ssty=0;"<-6.57>s*[1.0001]"[latinmodern-math.otf]/OT:script=math;
-language=DFLT;+ssty=1;"
+(fontspec)             <10.2->s*[1.0001]"[latinmodern-math.otf]/OT:script=math;
+language=DFLT;"<7.2-10.2>s*[1.0001]"[latinmodern-math.otf]/OT:script=math;langu
+age=DFLT;+ssty=0;"<-7.2>s*[1.0001]"[latinmodern-math.otf]/OT:script=math;langua
+ge=DFLT;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =7.41315pt\relax \fontdimen 9\font
-(fontspec)             =4.3143pt\relax \fontdimen 10\font =4.8618pt\relax
-(fontspec)             \fontdimen 11\font =7.5117pt\relax \fontdimen 12\font
-(fontspec)             =3.77776pt\relax \fontdimen 13\font =3.97485pt\relax
-(fontspec)             \fontdimen 14\font =3.97485pt\relax \fontdimen 15\font
-(fontspec)             =3.16455pt\relax \fontdimen 16\font =2.70465pt\relax
-(fontspec)             \fontdimen 17\font =2.70465pt\relax \fontdimen 18\font
-(fontspec)             =2.7375pt\relax \fontdimen 19\font =2.19pt\relax
-(fontspec)             \fontdimen 22\font =2.7375pt\relax \fontdimen 20\font
-(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
+(fontspec)             \fontdimen 8\font =8.124pt\relax \fontdimen 9\font
+(fontspec)             =4.728pt\relax \fontdimen 10\font =5.328pt\relax
+(fontspec)             \fontdimen 11\font =8.232pt\relax \fontdimen 12\font
+(fontspec)             =4.14pt\relax \fontdimen 13\font =4.356pt\relax
+(fontspec)             \fontdimen 14\font =4.356pt\relax \fontdimen 15\font
+(fontspec)             =3.468pt\relax \fontdimen 16\font =2.964pt\relax
+(fontspec)             \fontdimen 17\font =2.964pt\relax \fontdimen 18\font
+(fontspec)             =3.0pt\relax \fontdimen 19\font =2.4pt\relax \fontdimen
+(fontspec)             22\font =3.0pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
 (fontspec)             - 'bold' (bx/n) with NFSS spec.:
 (fontspec)             <->s*[1.0001]"[latinmodern-math.otf]/OT:script=math;lang
 uage=DFLT;"
 (fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =7.41315pt\relax \fontdimen 9\font
-(fontspec)             =4.3143pt\relax \fontdimen 10\font =4.8618pt\relax
-(fontspec)             \fontdimen 11\font =7.5117pt\relax \fontdimen 12\font
-(fontspec)             =3.77776pt\relax \fontdimen 13\font =3.97485pt\relax
-(fontspec)             \fontdimen 14\font =3.97485pt\relax \fontdimen 15\font
-(fontspec)             =3.16455pt\relax \fontdimen 16\font =2.70465pt\relax
-(fontspec)             \fontdimen 17\font =2.70465pt\relax \fontdimen 18\font
-(fontspec)             =2.7375pt\relax \fontdimen 19\font =2.19pt\relax
-(fontspec)             \fontdimen 22\font =2.7375pt\relax \fontdimen 20\font
-(fontspec)             =0pt\relax \fontdimen 21\font =0pt\relax 
+(fontspec)             \fontdimen 8\font =8.124pt\relax \fontdimen 9\font
+(fontspec)             =4.728pt\relax \fontdimen 10\font =5.328pt\relax
+(fontspec)             \fontdimen 11\font =8.232pt\relax \fontdimen 12\font
+(fontspec)             =4.14pt\relax \fontdimen 13\font =4.356pt\relax
+(fontspec)             \fontdimen 14\font =4.356pt\relax \fontdimen 15\font
+(fontspec)             =3.468pt\relax \fontdimen 16\font =2.964pt\relax
+(fontspec)             \fontdimen 17\font =2.964pt\relax \fontdimen 18\font
+(fontspec)             =3.0pt\relax \fontdimen 19\font =2.4pt\relax \fontdimen
+(fontspec)             22\font =3.0pt\relax \fontdimen 20\font =0pt\relax
+(fontspec)             \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
 (Font)              `symbols' in the math version `normal' on input line 67.
@@ -1072,38 +1072,38 @@ Package fontspec Info: latinmodern-math scale = 0.9999.
 Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             'latinmodern-math.otf' with options
 (fontspec)             [Scale=MatchLowercase,BoldItalicFont={},ItalicFont={},Sm
-allCapsFont={},Script=Math,SizeFeatures={{Size=9.3075-},{Size=6.57-9.3075,Font=
-latinmodern-math.otf,Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,St
-yle=MathScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAd
-justment={\fontdimen
-(fontspec)             8\font =0.438pt\relax \fontdimen 9\font =2.19pt\relax
-(fontspec)             \fontdimen 10\font =1.82864pt\relax \fontdimen 11\font
-(fontspec)             =1.21545pt\relax \fontdimen 12\font =6.56999pt\relax
+allCapsFont={},Script=Math,SizeFeatures={{Size=10.2-},{Size=7.2-10.2,Font=latin
+modern-math.otf,Style=MathScript},{Size=-7.2,Font=latinmodern-math.otf,Style=Ma
+thScriptScript}},BoldFont={latinmodern-math.otf},ScaleAgain=0.9999,FontAdjustme
+nt={\fontdimen
+(fontspec)             8\font =0.48pt\relax \fontdimen 9\font =2.4pt\relax
+(fontspec)             \fontdimen 10\font =2.004pt\relax \fontdimen 11\font
+(fontspec)             =1.332pt\relax \fontdimen 12\font =7.2pt\relax
 (fontspec)             \fontdimen 13\font =0pt\relax }].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <9.3075->s*[0.9999]"[latinmodern-math.otf]/OT:script=mat
-h;language=DFLT;"<6.57-9.3075>s*[0.9999]"[latinmodern-math.otf]/OT:script=math;
-language=DFLT;+ssty=0;"<-6.57>s*[0.9999]"[latinmodern-math.otf]/OT:script=math;
-language=DFLT;+ssty=1;"
+(fontspec)             <10.2->s*[0.9999]"[latinmodern-math.otf]/OT:script=math;
+language=DFLT;"<7.2-10.2>s*[0.9999]"[latinmodern-math.otf]/OT:script=math;langu
+age=DFLT;+ssty=0;"<-7.2>s*[0.9999]"[latinmodern-math.otf]/OT:script=math;langua
+ge=DFLT;+ssty=1;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =0.438pt\relax \fontdimen 9\font
-(fontspec)             =2.19pt\relax \fontdimen 10\font =1.82864pt\relax
-(fontspec)             \fontdimen 11\font =1.21545pt\relax \fontdimen 12\font
-(fontspec)             =6.56999pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             \fontdimen 8\font =0.48pt\relax \fontdimen 9\font
+(fontspec)             =2.4pt\relax \fontdimen 10\font =2.004pt\relax
+(fontspec)             \fontdimen 11\font =1.332pt\relax \fontdimen 12\font
+(fontspec)             =7.2pt\relax \fontdimen 13\font =0pt\relax 
 (fontspec)             - 'bold' (bx/n) with NFSS spec.:
 (fontspec)             <->s*[0.9999]"[latinmodern-math.otf]/OT:script=math;lang
 uage=DFLT;"
 (fontspec)             - 'bold small caps'  (bx/sc) with NFSS spec.: 
 (fontspec)             and font adjustment code:
-(fontspec)             \fontdimen 8\font =0.438pt\relax \fontdimen 9\font
-(fontspec)             =2.19pt\relax \fontdimen 10\font =1.82864pt\relax
-(fontspec)             \fontdimen 11\font =1.21545pt\relax \fontdimen 12\font
-(fontspec)             =6.56999pt\relax \fontdimen 13\font =0pt\relax 
+(fontspec)             \fontdimen 8\font =0.48pt\relax \fontdimen 9\font
+(fontspec)             =2.4pt\relax \fontdimen 10\font =2.004pt\relax
+(fontspec)             \fontdimen 11\font =1.332pt\relax \fontdimen 12\font
+(fontspec)             =7.2pt\relax \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 6
@@ -1143,11 +1143,11 @@ LaTeX Info: Redefining \ref on input line 67.
 LaTeX Info: Redefining \pageref on input line 67.
 LaTeX Info: Redefining \nameref on input line 67.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 70.
+(Font)              scaled to size 14.4pt on input line 70.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 70.
+(Font)              scaled to size 10.0pt on input line 70.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 70.
+(Font)              scaled to size 7.0pt on input line 70.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7
 0.
 
@@ -1155,17 +1155,17 @@ LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 12.00128pt on input line 70.
+(Font)              scaled to size 14.40152pt on input line 70.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 70.
+(Font)              scaled to size 10.00107pt on input line 70.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 70.
+(Font)              scaled to size 7.00075pt on input line 70.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 70.
+(Font)              scaled to size 14.39845pt on input line 70.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 70.
+(Font)              scaled to size 9.99893pt on input line 70.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 70.
+(Font)              scaled to size 6.99925pt on input line 70.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 70.
 
 
@@ -1195,266 +1195,294 @@ LaTeX Warning: No \author given.
 
 ] (gpdiary2020spring.toc
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 1.
+(Font)              scaled to size 8.4pt on input line 1.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.475pt on input line 1.
+(Font)              scaled to size 6.0pt on input line 1.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95116pt on input line 1.
+(Font)              scaled to size 12.00128pt on input line 1.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6658pt on input line 1.
+(Font)              scaled to size 8.40088pt on input line 1.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.47559pt on input line 1.
+(Font)              scaled to size 6.00064pt on input line 1.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 1.
+(Font)              scaled to size 11.99872pt on input line 1.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 1.
+(Font)              scaled to size 8.3991pt on input line 1.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 1.
- [3] [4] [5])
+(Font)              scaled to size 5.99936pt on input line 1.
+
+Underfull \vbox (badness 2065) has occurred while \output is active []
+
+ [3]
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [4]
+Underfull \vbox (badness 2310) has occurred while \output is active []
+
+ [5])
 \tf@toc=\write3
 \openout3 = `gpdiary2020spring.toc'.
 
- [6] [7
 
-] [8] [9] [10] [11] [12
+[6]
+Underfull \vbox (badness 1383) has occurred while \output is active []
+
+ [7
 
 ]
-[13
+[8] [9] [10] [11] [12] [13
 
-] [14] [15
+] [14
 
-] [16] [17
+] [15] [16
 
-] [18
+] [17]
+Underfull \vbox (badness 3965) has occurred while \output is active []
 
-] [19] [20
+ [18
 
-] [21] [22] [23
+]
+[19] [20
 
-] [24] [25
+] [21] [22
+
+] [23] [24] [25
 
 ] [26] [27
 
-]
-[28] [29
+] [28] [29
 
-] [30
+] [30] [31
 
-] [31] [32
-
-] [33] [34
-
-] [35] [36
-
-] [37] [38
-
-] [39] [40] [41
+] [32] [33
 
 ]
-Missing character: There is no μ in font [lmroman10-regular]:mapping=tex-text;!
- [42]
-[43
+[34] [35
 
-] [44] [45
+] [36] [37
 
-] [46] [47
+] [38] [39
 
-] [48] [49
+] [40] [41
 
-] [50] [51
-
-] [52] [53
-
-] [54] [55
+] [42] [43] [44
 
 ]
-Underfull \vbox (badness 1845) has occurred while \output is active []
+Missing character: There is no μ in font [lmroman12-regular]:mapping=tex-text;!
+ [45] [46
 
- [56]
-[57] [58
-
-] [59] [60
-
-] [61] [62
-
-] [63] [64
+] [47] [48
 
 ]
-Underfull \vbox (badness 3333) has occurred while \output is active []
-
- [65]
-[66] [67
-
-] [68] [69
-
-] [70] [71
-
-] [72] [73] [74
-
-] [75] [76
+[49] [50
 
 ]
-Underfull \vbox (badness 1546) has occurred while \output is active []
+Overfull \hbox (12.43169pt too wide) in paragraph at lines 1287--1288
+\TU/NotoSerifCJKTC(0)/m/n/12 圖 一：|  滷 菩 提 味 噌 茄 子 燒 \TU/lmr/m/n/12 https://imgu
+r.com/gallery/88n85t6 
+ []
 
- [77]
-[78] [79
+[51] [52
 
-] [80] [81
+] [53] [54
 
-] [82] [83
+] [55] [56
+
+] [57] [58
+
+] [59] [60] [61
+
+] [62] [63
+
+] [64] [65
+
+]
+[66] [67] [68
+
+] [69] [70] [71
+
+] [72] [73
+
+] [74] [75
+
+] [76] [77] [78
+
+] [79] [80
+
+]
+[81] [82] [83
 
 ] [84] [85] [86
 
-] [87
+] [87] [88] [89
 
-] [88] [89
+] [90] [91] [92]
+Underfull \vbox (badness 3965) has occurred while \output is active []
 
-] [90] [91
-
-] [92]
-[93
-
-] [94]
-Underfull \hbox (badness 1082) in paragraph at lines 2658--2659
-\TU/NotoSerifCJKTC(0)/m/n/10.95 圖 一：|  青 茶 加 小 紫 蘇，|  咕 咕 園 盒 子，|  伯 爵 紅 茶 氣 泡 
-水
- []
-
-[95] [96
-
-] [97] [98
-
-] [99] [100
-
-] [101] [102] [103
-
-] [104] [105
-
-] [106] [107
+ [93
 
 ]
-[108] [109
+[94] [95
+
+] [96] [97] [98
+
+] [99] [100] [101
+
+] [102] [103
+
+] [104] [105] [106
+
+]
+[107] [108] [109
 
 ] [110] [111
 
-] [112] [113
+] [112] [113] [114
 
-] [114] [115
+] [115] [116
 
-] [116] [117
-
-] [118] [119
+] [117] [118
 
 ]
-[120] [121
+[119] [120] [121
 
 ] [122] [123
 
 ] [124] [125
 
-]
-Missing character: There is no ‎ in font [lmroman10-regular]:mapping=tex-text;!
-Missing character: There is no ‎ in font [lmroman10-regular]:mapping=tex-text;!
- [126] [127] [128
+] [126] [127
 
-] [129] [130
+] [128] [129
 
-] [131]
-[132
+] [130]
+[131
 
-] [133] [134] [135
+] [132] [133] [134
 
-] [136] [137
+] [135] [136] [137
 
 ] [138] [139
 
+] [140]
+Missing character: There is no ‎ in font [lmroman12-regular]:mapping=tex-text;!
+Missing character: There is no ‎ in font [lmroman12-regular]:mapping=tex-text;!
+ [141] [142
+
 ]
-Underfull \hbox (badness 1603) in paragraph at lines 4056--4058
-[]|\TU/NotoSerifCJKTC(0)/m/n/10.95 「\TU/lmr/m/n/10.95 Tunemakers\TU/NotoSerifCJ
-KTC(0)/m/n/10.95 」|  毛 孔 收 縮 水 \TU/lmr/m/n/10.95 (120ml)550 \TU/NotoSerifCJKTC(
-0)/m/n/10.95 元，|  金 縷 梅
- []
+[143] [144
 
-[140] [141] [142
+] [145] [146] [147
 
-] [143] [144
+] [148] [149] [150
 
-] [145] [146
+] [151] [152] [153
 
-] [147] [148
+]
+Underfull \vbox (badness 1590) has occurred while \output is active []
 
-] [149] [150
+ [154]
+[155] [156
 
-] [151]
-[152
-
-] [153] [154] [155
-
-] [156] [157
-
-] [158] [159
+] [157] [158] [159
 
 ] [160] [161
 
 ] [162] [163
 
+] [164] [165] [166
+
 ]
-[164] [165
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-] [166] [167
-
-] [168] [169
+ [167]
+[168] [169
 
 ] [170] [171
 
-] [172] [173
+]
+Underfull \vbox (badness 1237) has occurred while \output is active []
 
-] [174] [175
+ [172]
+[173] [174
+
+] [175] [176
+
+] [177] [178
+
+] [179] [180] [181
+
+] [182] [183] [184
 
 ]
-[176] [177
+[185] [186
 
-] [178] [179
+] [187] [188
 
-] [180] [181
+] [189] [190
 
-] [182] [183
-
-] [184] [185
-
-] [186] [187
+] [191] [192] [193
 
 ]
-[188] [189
+Underfull \vbox (badness 2452) has occurred while \output is active []
 
-] [190] [191
+ [194]
+[195] [196
 
-] [192] [193
+] [197] [198] [199
 
-] [194] [195
+] [200] [201
 
-] [196] [197
+] [202
 
-] [198] [199
+] [203] [204
+
+] [205] [206
 
 ]
-[200]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 5793.
- [201
+[207] [208] [209
 
-] [202]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 5793.
+] [210] [211
+
+] [212] [213] [214
+
+] [215] [216
+
+] [217] [218]
+[219
+
+] [220]
+Underfull \hbox (badness 1902) in paragraph at lines 5821--5824
+[]\TU/NotoSerifCJKTC(0)/m/n/12 明 天 開 始 口 服 \TU/lmr/m/n/12 A \TU/NotoSerifCJKTC(
+0)/m/n/12 酸 的 劑 量 要 加 大 到 \TU/lmr/m/n/12 20mg
+ []
+
+[221
+
+] [222] [223
+
+] [224] [225
+
+] [226] [227] [228
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 6054.
+ [229]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 6054.
  (gpdiary2020spring.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 5793.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 5793.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 6054.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 6054.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 30310 strings out of 427242
- 581381 string characters out of 3145762
- 818999 words of memory out of 3000000
- 34562 multiletter control sequences out of 15000+200000
- 538786 words of font info for 84 fonts, out of 3000000 for 9000
+ 30363 strings out of 427242
+ 584361 string characters out of 3145762
+ 817804 words of memory out of 3000000
+ 34619 multiletter control sequences out of 15000+200000
+ 538782 words of font info for 84 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  58i,12n,115p,818b,482s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on gpdiary2020spring.pdf (202 pages).
+Output written on gpdiary2020spring.pdf (229 pages).
