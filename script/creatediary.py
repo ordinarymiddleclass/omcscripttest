@@ -29,12 +29,10 @@ def from_licence (d):
     return relativedelta.relativedelta(d, birthday) 
 
 def isotretinoin (d):
-    isoday = datetime(2020, 5, 2)
-    return relativedelta.relativedelta(d, isoday) 
+    return (d - datetime(2020,5,2)).days
 
-def iso_twenty (d):
-    isoday = datetime(2020, 5, 28)
-    return relativedelta.relativedelta(d, isoday) 
+def iso_twenty (d):    
+    return (d - datetime(2020,5,28)).days
 
 def from_epoch (d):
     return (d - datetime(1970,1,1)).days
@@ -91,7 +89,7 @@ def format_date_information (d):
         " / " + format_weekday_en(d) + " / " + format_gp_en(d)    
     li.add_ul(date_information_zh)
     li.add_ul(date_information_en)
-    li.add_ul("特殊註記: 口服A酸第{}天，劑量加大到20mg QD第{}天".format(isotretinoin(d).days, iso_twenty(d).days))
+    li.add_ul("特殊註記: 口服A酸第{}天，劑量加大到20mg QD第{}天".format(isotretinoin(d), iso_twenty(d)))
     return li.compile()
 
 def format_title (d):
@@ -119,7 +117,7 @@ def create_template_body():
     appendix = lazymdwriter.convenient_list("附錄 Appendix")
     upper_body.add_ol("", 1)
     upper_body.add_ol("蒼白球飲食誌暨物價筆記[1]", 2)
-    lower_body.add_comment("新台幣計價。有關新台幣請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。", 1)
+    lower_body.add_comment("新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。", 1)
     return upper_body.compile() + lower_body.compile() + appendix.compile()
 
 def create_template(d):
