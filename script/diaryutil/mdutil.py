@@ -74,7 +74,7 @@ def convertmonth(s):
     newmd = add_encoding_header(concatmd(li))
     newmd.replace("---", "")
     with destfile.open("w", encoding="utf-8") as f:
-        f.write(newmd)
+        f.write(newmd)    
     with destfile_html.open("w", encoding="utf-8") as f:
         f.write(pandoc_html(str(destfile)))
     with destfile_txt.open("w", encoding="utf-8") as f:
@@ -87,20 +87,20 @@ def convertmonth(s):
         f.write(pandoc_docbook(str(destfile)))
 
 
-for item in ["202003", "202004", "202005"]:
+for item in ["202006", "202007", "202008"]:
     convertmonth(item)
 
 dest = convenientpath.get_dest("md")
 dest_html = convenientpath.get_dest("html")
 dest_txt = convenientpath.get_dest("txt")
 dest_tex = convenientpath.get_dest("tex")
-destfile = dest / "gpdiary2020spring.md"
-destfile_html = dest_html / "gpdiary2020spring.html"
-destfile_txt = dest_txt / "gpdiary2020spring.txt"
-destfile_tex = dest_tex / "gpdiary2020spring.tex"
+destfile = dest / "gpdiary2020summer.md"
+destfile_html = dest_html / "gpdiary2020summer.html"
+destfile_txt = dest_txt / "gpdiary2020summer.txt"
+destfile_tex = dest_tex / "gpdiary2020summer.tex"
 
 testlist = []
-for item in ["202003", "202004", "202005"]:
+for item in ["202006", "202007", "202008"]:
     source = convenientpath.get_source() / item 
     testlist += sorted(source.glob("*.md"))
 newmd = concatmd(testlist)
