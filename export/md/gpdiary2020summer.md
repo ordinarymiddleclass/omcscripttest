@@ -462,70 +462,6 @@
 
 
 
-# 蒼白球日誌0260 2020/06/14 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)6月14日 / Unix 紀元 18427 日 / 星期日 / 蒼白球紀元第260日
-* June 14, 2020 (UTC) / 18427 days since Unix Epoch / Sunday / Globus Pallidum day 260
-* 特殊註記: 口服A酸第43天，劑量加大到20mg QD第17天
-
-## 年齡 Age ##
-
-* 34 歲 1 個月 22 天 / 成為病理專科醫師 2 年 8 個月 2 天
-* 34 years 1 months 22 days old / 2 years 8 months 2 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
-
-## 附錄 Appendix ##
-
-
-
-# 蒼白球日誌0261 2020/06/15 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)6月15日 / Unix 紀元 18428 日 / 星期一 / 蒼白球紀元第261日
-* June 15, 2020 (UTC) / 18428 days since Unix Epoch / Monday / Globus Pallidum day 261
-* 特殊註記: 口服A酸第44天，劑量加大到20mg QD第18天
-
-## 年齡 Age ##
-
-* 34 歲 1 個月 23 天 / 成為病理專科醫師 2 年 8 個月 3 天
-* 34 years 1 months 23 days old / 2 years 8 months 3 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
-
-## 附錄 Appendix ##
-
-
-
 # 蒼白球日誌0262 2020/06/16 #
 
 ## 日期 Date ##
@@ -821,70 +757,6 @@
 [1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌29.517新台幣，美元指數97.06，金價每盎司1766.57美元，西德州中級(WTI)原油價格每桶38.22美元，S&P500指數3057.3(油價跟S&P下跌，因為原油庫存增加了。這是最近的股票走勢裡面唯一我看得懂的一天)。
 
 ## 附錄 Appendix ##
-
-
-# 蒼白球日誌0271 2020/06/25 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)6月25日 / Unix 紀元 18438 日 / 星期四 / 蒼白球紀元第271日
-* June 25, 2020 (UTC) / 18438 days since Unix Epoch / Thursday / Globus Pallidum day 271
-* 特殊註記: 口服A酸第54天，劑量加大到20mg QD第28天
-
-## 年齡 Age ##
-
-* 34 歲 2 個月 2 天 / 成為病理專科醫師 2 年 8 個月 13 天
-* 34 years 2 months 2 days old / 2 years 8 months 13 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
-
-## 附錄 Appendix ##
-
-
-
-# 蒼白球日誌0272 2020/06/26 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)6月26日 / Unix 紀元 18439 日 / 星期五 / 蒼白球紀元第272日
-* June 26, 2020 (UTC) / 18439 days since Unix Epoch / Friday / Globus Pallidum day 272
-* 特殊註記: 口服A酸第55天，劑量加大到20mg QD第29天
-
-## 年齡 Age ##
-
-* 34 歲 2 個月 3 天 / 成為病理專科醫師 2 年 8 個月 14 天
-* 34 years 2 months 3 days old / 2 years 8 months 14 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
-
-## 附錄 Appendix ##
-
 
 
 # 蒼白球日誌0273 2020/06/27 #
@@ -1347,38 +1219,6 @@
 
 
 
-# 蒼白球日誌0287 2020/07/11 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)7月11日 / Unix 紀元 18454 日 / 星期六 / 蒼白球紀元第287日
-* July 11, 2020 (UTC) / 18454 days since Unix Epoch / Saturday / Globus Pallidum day 287
-* 特殊註記: 口服A酸第70天，劑量加大到20mg QD第44天
-
-## 年齡 Age ##
-
-* 34 歲 2 個月 18 天 / 成為病理專科醫師 2 年 8 個月 29 天
-* 34 years 2 months 18 days old / 2 years 8 months 29 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
-
-## 附錄 Appendix ##
-
-
-
 # 蒼白球日誌0288 2020/07/12 #
 
 ## 日期 Date ##
@@ -1702,38 +1542,6 @@
 
 
 
-# 蒼白球日誌0298 2020/07/22 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)7月22日 / Unix 紀元 18465 日 / 星期三 / 蒼白球紀元第298日
-* July 22, 2020 (UTC) / 18465 days since Unix Epoch / Wednesday / Globus Pallidum day 298
-* 特殊註記: 口服A酸第81天，劑量加大到20mg QD第55天
-
-## 年齡 Age ##
-
-* 34 歲 2 個月 29 天 / 成為病理專科醫師 2 年 9 個月 10 天
-* 34 years 2 months 29 days old / 2 years 9 months 10 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
-
-## 附錄 Appendix ##
-
-
-
 # 蒼白球日誌0299 2020/07/23 #
 
 ## 日期 Date ##
@@ -1846,38 +1654,6 @@
 ## 附錄 Appendix ##
 
 
-# 蒼白球日誌0302 2020/07/26 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)7月26日 / Unix 紀元 18469 日 / 星期日 / 蒼白球紀元第302日
-* July 26, 2020 (UTC) / 18469 days since Unix Epoch / Sunday / Globus Pallidum day 302
-* 特殊註記: 口服A酸第85天，劑量加大到20mg QD第59天
-
-## 年齡 Age ##
-
-* 34 歲 3 個月 3 天 / 成為病理專科醫師 2 年 9 個月 14 天
-* 34 years 3 months 3 days old / 2 years 9 months 14 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
-
-## 附錄 Appendix ##
-
-
-
 # 蒼白球日誌0303 2020/07/27 #
 
 ## 日期 Date ##
@@ -1941,38 +1717,6 @@
 ## 注釋 Comment ##
 
 [1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌29.299新台幣，美元指數93.66，金價每盎司1950.15美元，西德州中級(WTI)原油價格每桶美元41.05，S&P500指數3236.2。
-
-## 附錄 Appendix ##
-
-
-
-# 蒼白球日誌0305 2020/07/29 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)7月29日 / Unix 紀元 18472 日 / 星期三 / 蒼白球紀元第305日
-* July 29, 2020 (UTC) / 18472 days since Unix Epoch / Wednesday / Globus Pallidum day 305
-* 特殊註記: 口服A酸第88天，劑量加大到20mg QD第62天
-
-## 年齡 Age ##
-
-* 34 歲 3 個月 6 天 / 成為病理專科醫師 2 年 9 個月 17 天
-* 34 years 3 months 6 days old / 2 years 9 months 17 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
 
 ## 附錄 Appendix ##
 
@@ -2189,38 +1933,6 @@
 [1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣29.383元，美元指數93.44，金價每盎司1993.41美元(期貨已經站上2011元了，我覺得這世界瘋了，到底是誰在炒這個東西)，西德州中級(WTI)原油價格每桶41.45美元，S&P500指數3299.8。
 
 ## 附錄 Appendix ##
-
-
-# 蒼白球日誌0312 2020/08/05 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)8月5日 / Unix 紀元 18479 日 / 星期三 / 蒼白球紀元第312日
-* August 05, 2020 (UTC) / 18479 days since Unix Epoch / Wednesday / Globus Pallidum day 312
-* 特殊註記: 口服A酸第95天，劑量加大到20mg QD第69天
-
-## 年齡 Age ##
-
-* 34 歲 3 個月 13 天 / 成為病理專科醫師 2 年 9 個月 24 天
-* 34 years 3 months 13 days old / 2 years 9 months 24 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
-
-## 附錄 Appendix ##
-
 
 
 # 蒼白球日誌0313 2020/08/06 #
@@ -2463,38 +2175,6 @@
 
 
 
-# 蒼白球日誌0320 2020/08/13 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)8月13日 / Unix 紀元 18487 日 / 星期四 / 蒼白球紀元第320日
-* August 13, 2020 (UTC) / 18487 days since Unix Epoch / Thursday / Globus Pallidum day 320
-* 特殊註記: 口服A酸第103天，劑量加大到20mg QD第77天
-
-## 年齡 Age ##
-
-* 34 歲 3 個月 21 天 / 成為病理專科醫師 2 年 10 個月 1 天
-* 34 years 3 months 21 days old / 2 years 10 months 1 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
-
-## 附錄 Appendix ##
-
-
-
 # 蒼白球日誌0321 2020/08/14 #
 
 ## 日期 Date ##
@@ -2618,38 +2298,6 @@
 看起來蒼白球日誌是無法有編目了，不過就算這樣，我還是要很帥氣地在下次印行的時候附上版權頁。純耍帥。
 
 ## 注釋 Comment ##
-
-## 附錄 Appendix ##
-
-
-
-# 蒼白球日誌0325 2020/08/18 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)8月18日 / Unix 紀元 18492 日 / 星期二 / 蒼白球紀元第325日
-* August 18, 2020 (UTC) / 18492 days since Unix Epoch / Tuesday / Globus Pallidum day 325
-* 特殊註記: 口服A酸第108天，劑量加大到20mg QD第82天
-
-## 年齡 Age ##
-
-* 34 歲 3 個月 26 天 / 成為病理專科醫師 2 年 10 個月 6 天
-* 34 years 3 months 26 days old / 2 years 10 months 6 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
 
 ## 附錄 Appendix ##
 
@@ -2781,38 +2429,6 @@
 
 
 
-# 蒼白球日誌0329 2020/08/22 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)8月22日 / Unix 紀元 18496 日 / 星期六 / 蒼白球紀元第329日
-* August 22, 2020 (UTC) / 18496 days since Unix Epoch / Saturday / Globus Pallidum day 329
-* 特殊註記: 口服A酸第112天，劑量加大到20mg QD第86天
-
-## 年齡 Age ##
-
-* 34 歲 3 個月 30 天 / 成為病理專科醫師 2 年 10 個月 10 天
-* 34 years 3 months 30 days old / 2 years 10 months 10 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
-
-## 附錄 Appendix ##
-
-
-
 # 蒼白球日誌0330 2020/08/23 #
 
 ## 日期 Date ##
@@ -2884,70 +2500,6 @@
 
 
 
-# 蒼白球日誌0333 2020/08/26 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)8月26日 / Unix 紀元 18500 日 / 星期三 / 蒼白球紀元第333日
-* August 26, 2020 (UTC) / 18500 days since Unix Epoch / Wednesday / Globus Pallidum day 333
-* 特殊註記: 口服A酸第116天，劑量加大到20mg QD第90天
-
-## 年齡 Age ##
-
-* 34 歲 4 個月 3 天 / 成為病理專科醫師 2 年 10 個月 14 天
-* 34 years 4 months 3 days old / 2 years 10 months 14 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
-
-## 附錄 Appendix ##
-
-
-
-# 蒼白球日誌0334 2020/08/27 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)8月27日 / Unix 紀元 18501 日 / 星期四 / 蒼白球紀元第334日
-* August 27, 2020 (UTC) / 18501 days since Unix Epoch / Thursday / Globus Pallidum day 334
-* 特殊註記: 口服A酸第117天，劑量加大到20mg QD第91天
-
-## 年齡 Age ##
-
-* 34 歲 4 個月 4 天 / 成為病理專科醫師 2 年 10 個月 15 天
-* 34 years 4 months 4 days old / 2 years 10 months 15 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
-
-
-## 附錄 Appendix ##
-
-
-
 # 蒼白球日誌0335 2020/08/28 #
 
 ## 日期 Date ##
@@ -2966,38 +2518,6 @@
 其實這幾天有很多東西可以寫，但是因為工作突然爆量，整個人被壓垮了，所以就都沒有紀錄。或許明天來記一下？
 
 ## 注釋 Comment ##
-
-
-## 附錄 Appendix ##
-
-
-
-# 蒼白球日誌0336 2020/08/29 #
-
-## 日期 Date ##
-
-* 世界協調時間2020年(中華民國109年，令和2年)8月29日 / Unix 紀元 18503 日 / 星期六 / 蒼白球紀元第336日
-* August 29, 2020 (UTC) / 18503 days since Unix Epoch / Saturday / Globus Pallidum day 336
-* 特殊註記: 口服A酸第119天，劑量加大到20mg QD第93天
-
-## 年齡 Age ##
-
-* 34 歲 4 個月 6 天 / 成為病理專科醫師 2 年 10 個月 17 天
-* 34 years 4 months 6 days old / 2 years 10 months 17 days after acquiring ROC Surgical Pathology Licence
-
-## 本文 Content ##
-
-1. 
-
-    
-2. 蒼白球飲食誌暨物價筆記[1]
-
-    
-
-## 注釋 Comment ##
-
-[1] 新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0247。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。
-
 
 
 ## 附錄 Appendix ##
