@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7440 64-bit) (preloaded format=xelatex 2020.6.4)  14 AUG 2020 10:46
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7440 64-bit) (preloaded format=xelatex 2020.6.4)  2 SEP 2020 20:31
 entering extended mode
 **./gpdiary2020summer.tex
 (gpdiary2020summer.tex
@@ -578,14 +578,14 @@ LaTeX Font Info:    ... okay on input line 67.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(59.75095pt, 312.98026pt, 48.36958pt)
+* h-part:(L,W,R)=(65.44142pt, 304.44432pt, 51.21504pt)
 * v-part:(T,H,B)=(71.70166pt, 460.36479pt, 65.44142pt)
 * \paperwidth=421.10078pt
 * \paperheight=597.50787pt
-* \textwidth=312.98026pt
+* \textwidth=304.44432pt
 * \textheight=460.36479pt
-* \oddsidemargin=-12.51904pt
-* \evensidemargin=-23.9004pt
+* \oddsidemargin=-6.82857pt
+* \evensidemargin=-21.05495pt
 * \topmargin=-80.19307pt
 * \headheight=59.75095pt
 * \headsep=19.8738pt
@@ -946,38 +946,37 @@ LaTeX Warning: No \author given.
 
 
 
-] [2
+] [2] (gpdiary2020summer.toc
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.665pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.475pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.95099pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.66568pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.4755pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 10.94882pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 7.66417pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.47441pt on input line 3.
+ [3
 
-] (gpdiary2020summer.toc
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.665pt on input line 1.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.475pt on input line 1.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95099pt on input line 1.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.66568pt on input line 1.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.4755pt on input line 1.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 1.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 1.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 1.
- [3] [4] [5])
+
+] [4] [5])
 \tf@toc=\write3
 \openout3 = `gpdiary2020summer.toc'.
 
- [6] [7
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
+[8] [9]
 Underfull \vbox (badness 3058) has occurred while \output is active []
 
  [10]
@@ -1043,82 +1042,81 @@ Underfull \vbox (badness 3058) has occurred while \output is active []
 ] [69] [70
 
 ]
-[71
+[71] [72
 
-] [72] [73] [74
+] [73] [74] [75
 
-] [75] [76
+] [76] [77
 
-] [77
+] [78
 
-] [78] [79
+] [79] [80
 
-] [80
+] [81
 
-] [81] [82
+] [82] [83
 
-] [83
+] [84
 
-] [84] [85]
-[86
+] [85]
+[86] [87
 
-] [87] [88
+] [88] [89
 
-] [89] [90
+] [90] [91
 
-] [91] [92
+] [92] [93
 
-] [93] [94
+] [94] [95
 
-] [95] [96
+] [96] [97
 
-] [97] [98
+] [98] [99
 
-] [99
+] [100
 
-] [100]
-[101
+]
+[101] [102
 
-] [102] [103
+] [103] [104
 
-] [104] [105] [106
+] [105] [106] [107
 
-] [107] [108
+] [108] [109
 
-] [109] [110
+] [110]
+Underfull \vbox (badness 4726) has occurred while \output is active []
 
-] [111
+ [111
 
-] [112]
-[113
+]
+[112] [113
 
 ] [114] [115
 
-] [116] [117
+] [116] [117] [118
 
-] [118] [119
+] [119] [120
 
-] [120] [121
+] [121] [122
 
-] [122] [123
+] [123]
+[124
 
-] [124]
-[125
+] [125] [126
 
-] [126] [127
+] [127] [128
 
-] [128] [129
+] [129] [130
 
-] [130] [131
+] [131] [132
 
-] [132] [133
+] [133] [134
 
-] [134] [135
+] [135]
+[136
 
-] [136]
-[137
-
-] [138] [139
+] [137] [138] [139
 
 ] [140] [141
 
@@ -1128,73 +1126,81 @@ Underfull \vbox (badness 3058) has occurred while \output is active []
 
 ] [146] [147
 
-] [148]
-[149
+]
+[148] [149
 
-] [150] [151] [152
+] [150] [151
 
-] [153] [154
+] [152] [153
 
-] [155] [156
+] [154] [155] [156
 
 ] [157] [158
 
-] [159] [160
+] [159]
+[160
+
+] [161] [162
+
+] [163] [164] [165
+
+] [166
+
+] [167]
+Underfull \vbox (badness 1675) has occurred while \output is active []
+
+ [168
 
 ]
-[161] [162
-
-] [163] [164
-
-] [165] [166
-
-] [167] [168
-
-] [169] [170
+[169] [170
 
 ] [171] [172
 
-]
-[173] [174
+] [173] [174] [175
 
-] [175] [176
-
-] [177] [178
+] [176] [177] [178
 
 ] [179] [180
 
-] [181] [182
+]
+[181] [182
 
 ] [183] [184
 
-]
-[185] [186
+] [185
+
+] [186
 
 ] [187] [188
 
 ] [189] [190
 
-] [191]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 5193.
- [192
+] [191
 
-] [193]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 5193.
+] [192]
+[193
+
+]
+Underfull \vbox (badness 3439) has occurred while \output is active []
+
+ [194]
+[195] [196
+
+] [197]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 5290.
+ [198]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 5290.
  (gpdiary2020summer.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 5193.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 5193.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 5290.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 5290.
  ) 
 Here is how much of TeX's memory you used:
  20788 strings out of 414076
  398152 string characters out of 2898241
- 841816 words of memory out of 3000000
+ 841820 words of memory out of 3000000
  38191 multiletter control sequences out of 15000+200000
  538843 words of font info for 84 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
- 58i,12n,118p,818b,433s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 58i,12n,118p,818b,472s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on gpdiary2020summer.pdf (193 pages).
+Output written on gpdiary2020summer.pdf (198 pages).
