@@ -94,13 +94,13 @@ dest = convenientpath.get_dest("md")
 dest_html = convenientpath.get_dest("html")
 dest_txt = convenientpath.get_dest("txt")
 dest_tex = convenientpath.get_dest("tex")
-destfile = dest / "gpdiary2020summer.md"
-destfile_html = dest_html / "gpdiary2020summer.html"
-destfile_txt = dest_txt / "gpdiary2020summer.txt"
-destfile_tex = dest_tex / "gpdiary2020summer.tex"
+destfile = dest / "gpdiary2020autumn.md"
+destfile_html = dest_html / "gpdiary2020autumn.html"
+destfile_txt = dest_txt / "gpdiary2020autumn.txt"
+destfile_tex = dest_tex / "gpdiary2020autumn.tex"
 
 testlist = []
-for item in ["202006", "202007", "202008"]:
+for item in ["202009", "202010", "202011"]:
     source = convenientpath.get_source() / item 
     testlist += sorted(source.glob("*.md"))
 newmd = concatmd(testlist)
