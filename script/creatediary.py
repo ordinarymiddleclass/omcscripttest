@@ -89,7 +89,7 @@ def format_date_information (d):
         " / " + format_weekday_en(d) + " / " + format_gp_en(d)    
     li.add_ul(date_information_zh)
     li.add_ul(date_information_en)
-    li.add_ul("特殊註記: 口服A酸第{}天，劑量加大到20mg QD第{}天".format(isotretinoin(d), iso_twenty(d)))
+    li.add_ul("特殊註記: 口服A酸第{}天".format(isotretinoin(d)))
     return li.compile()
 
 def format_title (d):
