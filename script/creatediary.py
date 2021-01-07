@@ -117,7 +117,9 @@ def create_template_body():
     appendix = lazymdwriter.convenient_list("附錄 Appendix")
     upper_body.add_ol("", 1)
     upper_body.add_ol("蒼白球飲食誌暨物價筆記[1]", 2)
-    lower_body.add_comment("新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0339。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。", 1)
+    upper_body.add_ol("蒼白球南港通訊處[2]支出回報[1]", 3)
+    lower_body.add_comment("新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0430。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。", 1)
+    lower_body.add_comment("即我男友那邊。", 2)
     return upper_body.compile() + lower_body.compile() + appendix.compile()
 
 def create_template(d):
