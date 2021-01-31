@@ -2,27 +2,11 @@
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
 %
-\documentclass[a5paper, 11pt
-]{book}
-\title{蒼白球日誌2020秋}
-\renewcommand{\baselinestretch}{1.3} 
-\usepackage{sectsty}
-\sectionfont{\clearpage}
-\usepackage[utf8]{inputenc}
-\usepackage[inner = 2.3cm, outer = 1.8cm, bottom=2.3cm, headheight=2.1cm]{geometry}
+\documentclass[
+]{article}
 \usepackage{lmodern}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
-\usepackage {xeCJK}
-\setCJKmainfont {Noto Serif CJK TC}
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\fancyfoot[CE,CO]{\rightmark}
-\fancyhead[LE,RO]{\thepage}
-\fancyhead[RE,LO]{蒼白球日誌2020秋}
-\renewcommand{\headrulewidth}{2pt}
-\renewcommand{\footrulewidth}{1pt}
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
@@ -59,45 +43,14 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{-\maxdimen} % remove section numbering
-\setcounter{tocdepth}{1}
-\renewcommand{\contentsname}{目錄}
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
 
+\author{}
 \date{}
 
 \begin{document}
-
-\clearpage\maketitle
-\thispagestyle{empty}
-\subsection{}
-\begin{flushleft}
-國家圖書館出版品預行編目資料 \linebreak
-\framebox(150,70){}
-\end{flushleft}
-\subsection{蒼白球日誌2020秋}
-\begin{flushleft}
-作者：蒼白球
-
-編輯： 蒼白球
-
-封面設計： 郭柏寬
-
-出版者： 簡靖航
-
-地址： 台北市中山區民生東路二段147巷6弄24號
-
-電話：(02) 25179948
-
-初版：2020年8月
-
-印刷：
-
-定價：0元
-
-本著作係採用創用 CC 姓名標示-非商業性-禁止改作 4.0 國際 授權條款授權，條款請見\linebreak https://creativecommons.org/licenses/by-nc-nd/4.0/
-\end{flushleft}
-\clearpage
-\tableofcontents
-
 
 \hypertarget{ux84bcux767dux7403ux65e5ux8a8c0339-20200901}{%
 \section{蒼白球日誌0339

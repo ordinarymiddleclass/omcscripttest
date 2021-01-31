@@ -87,7 +87,7 @@ def convertmonth(s):
         f.write(pandoc_docbook(str(destfile)))
 
 
-for item in ["202006", "202007", "202008"]:
+for item in ["202009", "202010", "202011"]:
     convertmonth(item)
 
 dest = convenientpath.get_dest("md")
