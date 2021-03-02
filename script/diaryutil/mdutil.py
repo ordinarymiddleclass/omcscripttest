@@ -87,20 +87,20 @@ def convertmonth(s):
         f.write(pandoc_docbook(str(destfile)))
 
 
-for item in ["202009", "202010", "202011"]:
+for item in ["202012", "202101", "202102"]:
     convertmonth(item)
 
 dest = convenientpath.get_dest("md")
 dest_html = convenientpath.get_dest("html")
 dest_txt = convenientpath.get_dest("txt")
 dest_tex = convenientpath.get_dest("tex")
-destfile = dest / "gpdiary2020autumn.md"
-destfile_html = dest_html / "gpdiary2020autumn.html"
-destfile_txt = dest_txt / "gpdiary2020autumn.txt"
-destfile_tex = dest_tex / "gpdiary2020autumn.tex"
+destfile = dest / "gpdiary2020winter.md"
+destfile_html = dest_html / "gpdiary2020winter.html"
+destfile_txt = dest_txt / "gpdiary2020winter.txt"
+destfile_tex = dest_tex / "gpdiary2020winter.tex"
 
 testlist = []
-for item in ["202009", "202010", "202011"]:
+for item in ["202012", "202101", "202102"]:
     source = convenientpath.get_source() / item 
     testlist += sorted(source.glob("*.md"))
 newmd = concatmd(testlist)
