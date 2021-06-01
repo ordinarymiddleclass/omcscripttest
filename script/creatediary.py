@@ -31,6 +31,9 @@ def from_licence (d):
 def isotretinoin (d):
     return (d - datetime(2020,5,2)).days
 
+def covidwarning (d):
+    return (d - datetime(2021,5,18)).days
+
 def iso_twenty (d):    
     return (d - datetime(2020,5,28)).days
 
@@ -89,7 +92,7 @@ def format_date_information (d):
         " / " + format_weekday_en(d) + " / " + format_gp_en(d)    
     li.add_ul(date_information_zh)
     li.add_ul(date_information_en)
-    li.add_ul("特殊註記: 口服A酸第{}天".format(isotretinoin(d)))
+    li.add_ul("特殊註記: 台灣因疫情[1]進入三級警戒[2]第{}天".format(covidwarning(d)))
     return li.compile()
 
 def format_title (d):
@@ -115,11 +118,14 @@ def create_template_body():
     upper_body = lazymdwriter.convenient_list("本文 Content")
     lower_body = lazymdwriter.convenient_list("注釋 Comment")
     appendix = lazymdwriter.convenient_list("附錄 Appendix")
-    upper_body.add_ol("", 1)
-    upper_body.add_ol("蒼白球飲食誌暨物價筆記[1]", 2)
-    upper_body.add_ol("蒼白球南港通訊處[2]支出回報[1]", 3)
-    lower_body.add_comment("新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0520。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。", 1)
-    lower_body.add_comment("即我男友那邊。", 2)
+    upper_body.add_ol("疫情筆記[1]", 1)
+    upper_body.add_ol("蒼白球飲食誌暨物價筆記[3]", 2)
+    upper_body.add_ol("蒼白球南港通訊處[4-5]支出回報[3]", 3)    
+    lower_body.add_comment("指新冠肺炎(COVID-19)疫情，有關此瘟疫請見蒼白球日誌0612。", 1)
+    lower_body.add_comment("有關第三級警戒請見蒼白球日誌0612。", 2)
+    lower_body.add_comment("新台幣計價。有關新台幣、美元指數、S&P500指數請參見蒼白球日誌0612。此刻匯率為1美元兌新台幣，美元指數，金價每盎司美元，西德州中級(WTI)原油價格每桶美元，S&P500指數。", 3)
+    lower_body.add_comment("即我男友那邊。", 4)
+    lower_body.add_comment("因為迷信所以要有五筆註釋。", 5)
     return upper_body.compile() + lower_body.compile() + appendix.compile()
 
 def create_template(d):
