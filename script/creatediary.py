@@ -140,6 +140,6 @@ current_path = Path(os.path.realpath(__file__))
 root = current_path.parent.parent
 rootpath = root / "source"
 for i in range(100):
-    newday = datetime.now() + timedelta(days=i-1)
+    newday = datetime.now() + timedelta(days=i)
     create_file(newday, rootpath)
 
